@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ERP Testing and Validation</name>
+   <tag></tag>
+   <elementGuidId>a25ffaf7-26d0-4928-93ae-bd1a3eb12685</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e1810626-7829-46a6-96c0-8563d5a56506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/enterprise-resource-planning/erp-vulnerability-testing-suite-can-impact-your-bu</value>
+      <webElementGuid>dd116e92-7ee3-4df0-a80a-9bc5a68bed6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ERP Testing and Validation</value>
+      <webElementGuid>8659255c-e858-4364-9071-d2d150ed4714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[6]/a[1]</value>
+      <webElementGuid>2a1c70fa-8853-4390-8318-c5d6d9e48092</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/ul/li[6]/a</value>
+      <webElementGuid>a7d85fa5-ab03-404a-9b69-3479a85b00ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ERP Testing and Validation')]</value>
+      <webElementGuid>beec14c8-229c-493e-8197-4042dcbb4423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERP Support Services'])[1]/following::a[1]</value>
+      <webElementGuid>5be57668-c309-4fb3-97e2-ca3d51e8e131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERP Architecture Planning'])[1]/following::a[2]</value>
+      <webElementGuid>93c580df-daa0-4190-b328-c6b0bef10055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comparative Study of Cloud-bases vs On-premise ERP'])[1]/preceding::a[1]</value>
+      <webElementGuid>ce6b62f0-dbac-4488-b030-6f79ecaa0dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Major Difference between Cloud &amp; On-premise ERP:'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2eac2fb-e2f3-4c1f-8186-4efa09de6602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ERP Testing and Validation']/parent::*</value>
+      <webElementGuid>cfd3253f-8243-4e89-8c8c-3ab414b090fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/enterprise-resource-planning/erp-vulnerability-testing-suite-can-impact-your-bu')]</value>
+      <webElementGuid>ec5eeb7f-0cae-490b-9351-2bc8a8c2c9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a</value>
+      <webElementGuid>4e4ac456-d831-48af-93bf-a09f5ca1c00b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/enterprise-resource-planning/erp-vulnerability-testing-suite-can-impact-your-bu' and (text() = 'ERP Testing and Validation' or . = 'ERP Testing and Validation')]</value>
+      <webElementGuid>f498cac7-7c94-4a24-91ca-79936dbb85c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

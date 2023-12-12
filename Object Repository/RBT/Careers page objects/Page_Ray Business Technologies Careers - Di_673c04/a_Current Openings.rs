@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Current Openings</name>
+   <tag></tag>
+   <elementGuidId>0468f70d-b712-4a02-b84f-5d10f229cddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.custom-button.js_scrollTocareers</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6fdd483-5e17-42b2-a04c-ef0066b26ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/about-us/careers#careersSection</value>
+      <webElementGuid>6bd3ae51-93cf-4334-a7f9-8fd25955b044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn custom-button js_scrollTocareers</value>
+      <webElementGuid>5d7cc279-79ca-4bd2-b8a6-282b7c080b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Current Openings</value>
+      <webElementGuid>e0b1c5e4-867a-4700-9d3c-5ec67eca07b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;hdngtxt careers-button-sec&quot;]/a[@class=&quot;btn custom-button js_scrollTocareers&quot;]</value>
+      <webElementGuid>9bf42bf7-48ae-497a-991d-83292374fc35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/a</value>
+      <webElementGuid>6d933fcc-f930-4974-83b2-ac46c2f455f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Current Openings')]</value>
+      <webElementGuid>37013be0-004a-4f5d-9ff6-b7d06fee43a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[3]/following::a[1]</value>
+      <webElementGuid>4ca3d098-ee6a-4742-bd44-344d8423412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Jobs'])[1]/following::a[1]</value>
+      <webElementGuid>9a2cea1b-4a5f-400d-979b-338594af80fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Current Openings']/parent::*</value>
+      <webElementGuid>e5d52180-5a2b-4499-8dbd-b08c5a24a29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/about-us/careers#careersSection')]</value>
+      <webElementGuid>628b4a9e-0abd-4bae-b1f9-306835ee2b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>53916309-bb6b-450f-9872-9f513cd17d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/about-us/careers#careersSection' and (text() = 'Current Openings' or . = 'Current Openings')]</value>
+      <webElementGuid>5ff18cfc-ff9d-4fcd-8ff2-7eb45afee157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

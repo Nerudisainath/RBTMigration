@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Boomi Services</name>
+   <tag></tag>
+   <elementGuidId>1d02f576-2a68-437d-8275-6e9be599af9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section[2]/div/ol/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1553bdb7-5b59-4d20-ab32-3aee1f245be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions</value>
+      <webElementGuid>889e39df-03aa-41ca-b4b5-f948af430d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boomi Services</value>
+      <webElementGuid>51501588-e23d-490b-bb8a-2584ee7ee642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[2]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[4]/a[1]</value>
+      <webElementGuid>6aa0c85a-d16a-45d2-af81-2b3dba6aba78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section[2]/div/ol/li[4]/a</value>
+      <webElementGuid>d17834de-32fe-4387-bcf5-88489cf667a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Boomi Services')]</value>
+      <webElementGuid>ccd55c8b-02ff-4fd4-8b24-366f23ef18f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Integration'])[2]/following::a[1]</value>
+      <webElementGuid>4e35a400-09d3-42d8-a898-3d819963f5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
+      <webElementGuid>5b6340e4-203c-4323-876a-fcbf897967fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi Integration'])[1]/preceding::a[1]</value>
+      <webElementGuid>a87d63b7-6f5f-4c65-b6db-5b016fb25262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Focused Boomi Integration Approach'])[1]/preceding::a[1]</value>
+      <webElementGuid>19d29d93-c449-4bdf-b32e-8d80cfd7b4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Boomi Services']/parent::*</value>
+      <webElementGuid>49a1a12d-2592-4ae1-a106-b87da885beff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions')]</value>
+      <webElementGuid>113f301d-750d-4366-9985-acb567976582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[4]/a</value>
+      <webElementGuid>bc981df1-432e-4280-98b6-76491ac764c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions' and (text() = 'Boomi Services' or . = 'Boomi Services')]</value>
+      <webElementGuid>a8981682-ff09-4100-b558-7d3eb68877de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

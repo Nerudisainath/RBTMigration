@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applications Integration</name>
+   <tag></tag>
+   <elementGuidId>deb64cce-6c3b-4287-8a6f-c9fc47878953</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section[2]/div/ol/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d12e6635-8446-4109-acfc-835809cb1829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/services/applications-integration</value>
+      <webElementGuid>5bc2100a-592f-4748-9ec7-1b956e640ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Applications Integration</value>
+      <webElementGuid>d5eeeb48-2d59-422e-a663-09da30973d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[2]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[3]/a[1]</value>
+      <webElementGuid>faf31b80-028f-44ff-8aa9-a12983138435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section[2]/div/ol/li[3]/a</value>
+      <webElementGuid>b06f21bf-d06f-4c26-950c-97daffdb950e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Applications Integration')])[2]</value>
+      <webElementGuid>5913a544-2061-4f28-a31b-6a703e9af866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[1]</value>
+      <webElementGuid>41f25cdb-65ef-44e5-98bd-ceed64511eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>6f12e2ec-3df5-484d-9cc9-469a40b82287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi Services'])[1]/preceding::a[1]</value>
+      <webElementGuid>3cc996b0-f4b2-41d3-ac47-cba570bd4b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/services/applications-integration')]</value>
+      <webElementGuid>e26e43c5-c57c-4a5f-b2df-62668ef8823e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]/a</value>
+      <webElementGuid>a6248f90-2560-49ec-955e-c7a37df17fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/services/applications-integration' and (text() = 'Applications Integration' or . = 'Applications Integration')]</value>
+      <webElementGuid>4dd40206-edbe-4ecc-86fa-8a20d62a10f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

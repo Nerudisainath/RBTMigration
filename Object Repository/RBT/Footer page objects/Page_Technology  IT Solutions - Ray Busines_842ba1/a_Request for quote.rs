@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Request for quote</name>
+   <tag></tag>
+   <elementGuidId>0a504de0-0e0e-4996-8608-b87d80956de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div/div/nav/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5e7db62-8865-46f7-93d9-064cb16f6600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/Request-for-quote</value>
+      <webElementGuid>545ff672-7ece-433c-ac5c-dc049d5bb9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request for quote</value>
+      <webElementGuid>c9cfc8e8-6b01-4438-ba25-39b76a76e693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;gradient-bg_2&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;greedy-nav&quot;]/ul[@class=&quot;visible-links&quot;]/li[6]/a[1]</value>
+      <webElementGuid>5136cdff-c659-41c2-bea9-afa738046ced</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>17f8d400-df83-48c8-9146-ec337994cde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Request for quote')]</value>
+      <webElementGuid>ab996692-9c62-4f02-b0bd-fbb7ec8772f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::a[1]</value>
+      <webElementGuid>c0e4b340-856f-4631-957d-bed3dd01696e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[1]/following::a[2]</value>
+      <webElementGuid>04bf1b04-38f2-4852-98b1-45d825f73aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::a[1]</value>
+      <webElementGuid>90dc6a7f-f19c-46e6-ba0b-fed4126610c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[1]/preceding::a[2]</value>
+      <webElementGuid>56c25dbe-0f30-4491-83f1-4a185a14725d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Request for quote']/parent::*</value>
+      <webElementGuid>e79cf108-162a-4ce6-b7b0-ac2f097b520f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/Request-for-quote')]</value>
+      <webElementGuid>580016f6-ea4d-46c8-bb02-319faf363c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/nav/ul/li[6]/a</value>
+      <webElementGuid>97d17efb-faa8-4bb7-a040-4b7ff6520d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/Request-for-quote' and (text() = 'Request for quote' or . = 'Request for quote')]</value>
+      <webElementGuid>f6fd15e5-7cda-40a6-9905-a51aa90a990b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

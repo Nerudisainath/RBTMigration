@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_3 min read</name>
+   <tag></tag>
+   <elementGuidId>66628b03-c4cf-4a06-aecb-489563f498db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.time-placement</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>400752d1-95b2-4105-993d-67bf222ca442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>time-placement</value>
+      <webElementGuid>0c8808d3-bd9f-459c-8b3c-a9d1b4660148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 min read</value>
+      <webElementGuid>595b635a-6c36-4479-bd2c-2e84c2b33f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;hdngtxt time-placement-content&quot;]/div[@class=&quot;time-placement-div&quot;]/p[@class=&quot;time-placement&quot;]</value>
+      <webElementGuid>29408ba5-605b-490a-ad92-4d633d4ffce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[2]/div/p</value>
+      <webElementGuid>5f8e8872-d4db-4643-9616-19d77cf2e3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Portal &amp; Content Management'])[3]/following::p[1]</value>
+      <webElementGuid>3acccc43-61a0-4714-8e58-abb5dc75c71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Portal &amp; Content Management'])[2]/following::p[1]</value>
+      <webElementGuid>74152212-3076-462d-9370-9b8a8fa015e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Difficulty in finding the right information at the right time'])[1]/preceding::p[3]</value>
+      <webElementGuid>9f72197d-2bfe-4f31-b95a-27bf2cd05d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trouble to make sense of content dispersed across many Internet an intranet portals'])[1]/preceding::p[3]</value>
+      <webElementGuid>a09bf16f-383c-44e0-b370-e3214d5b6b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3 min read']/parent::*</value>
+      <webElementGuid>0f43772a-7296-4d36-b5a0-c5cd85844711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>422438b1-cec9-430a-a231-09f80a833952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '3 min read' or . = '3 min read')]</value>
+      <webElementGuid>1d340115-6dea-41d8-aebd-0b7f27bb5c51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

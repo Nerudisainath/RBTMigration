@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Next generation ERP 2.0 Technology Solu_997bf8</name>
+   <tag></tag>
+   <elementGuidId>b69c4543-33b1-413c-96b6-01ef6b6cda42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.banner-text-display > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1b7b84ec-529e-4110-a6f9-7ef8c9aaae85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Enterprise Resource Planning</value>
+      <webElementGuid>0717f6fb-420f-4e11-a2e5-49862aa42cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/Enterprise-Resource-Planning.png?width=450&amp;height=130&amp;ext=.png</value>
+      <webElementGuid>18814a4b-1ab7-42ee-8442-c32ff88fa819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>472ef6e9-c642-4da9-b1b6-19fea70679aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[@class=&quot;inner-banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;banner-text row&quot;]/div[@class=&quot;col-sm-6 banner-text-display&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>1881528d-022c-417e-9962-905bea98e943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      <webElementGuid>c05ec3c8-3926-4386-b41c-2d2e2327fe8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Enterprise Resource Planning']</value>
+      <webElementGuid>4fee2709-753f-47d9-a78d-515230380df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/img</value>
+      <webElementGuid>2a9d8ce6-225b-4415-b6a4-49efaf050433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Enterprise Resource Planning' and @src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/Enterprise-Resource-Planning.png?width=450&amp;height=130&amp;ext=.png']</value>
+      <webElementGuid>ff1f462b-478d-43ed-a904-b96570500341</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

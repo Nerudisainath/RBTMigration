@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Liferay Portal</name>
+   <tag></tag>
+   <elementGuidId>90eaf3c6-3878-4e64-b604-9095e9389655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55102116-c109-4d9f-acd3-6ba4089fadb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://raybiztech.com/solutions/epcm/tes</value>
+      <webElementGuid>f1a0b668-61c8-44a0-866a-60dd264f0af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liferay Portal</value>
+      <webElementGuid>67144a2a-75c6-438c-8671-177d6d8ae195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/div[@class=&quot;font-14&quot;]/div[@class=&quot;medium-6 columns inner-sublinks&quot;]/ul[1]/li[8]/a[1]</value>
+      <webElementGuid>63c1bd77-39aa-4713-840b-db9f4db15bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/ul/li[8]/a</value>
+      <webElementGuid>ca8aad4e-d6eb-48cb-b013-7f88727258aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Liferay Portal')]</value>
+      <webElementGuid>e42696b4-e0b2-4bc2-928a-7545a23d9db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ektron CMS'])[1]/following::a[1]</value>
+      <webElementGuid>9a721c54-43e8-4143-8a2d-077d1954f63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drupal CMS'])[1]/following::a[2]</value>
+      <webElementGuid>6b561851-c703-4755-b657-15827cf8e958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content Migration'])[1]/preceding::a[1]</value>
+      <webElementGuid>604957da-f79e-4aa9-8d12-fc18f7d01e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Signage'])[1]/preceding::a[2]</value>
+      <webElementGuid>e3f3578d-78e8-49fa-9d85-3051d0dcb91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Liferay Portal']/parent::*</value>
+      <webElementGuid>987c76b4-4971-4026-bde1-597bb805b928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://raybiztech.com/solutions/epcm/tes')]</value>
+      <webElementGuid>f3bc72d8-709a-4d43-8331-aaa1b514ff80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[8]/a</value>
+      <webElementGuid>2c62e358-f6a6-46ad-b1ec-ca216911c628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://raybiztech.com/solutions/epcm/tes' and (text() = 'Liferay Portal' or . = 'Liferay Portal')]</value>
+      <webElementGuid>c3fdf19b-1070-4f4c-90a2-1cb887d3a435</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

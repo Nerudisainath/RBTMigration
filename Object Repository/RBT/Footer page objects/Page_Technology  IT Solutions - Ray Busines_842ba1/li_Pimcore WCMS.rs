@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pimcore WCMS</name>
+   <tag></tag>
+   <elementGuidId>f3e979df-c5b1-4efc-a971-608a5e205355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>93c8c274-95b3-4f88-8aea-06fa678f7b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pimcore WCMS</value>
+      <webElementGuid>6dcf472c-fbe8-4a54-ae27-67094712b25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/div[@class=&quot;font-14&quot;]/div[@class=&quot;medium-6 columns inner-sublinks&quot;]/ul[1]/li[5]</value>
+      <webElementGuid>33c9e83b-c5ac-4219-8306-12b2abfa1d28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/ul/li[5]</value>
+      <webElementGuid>cce8a5dd-29df-4b54-8017-72ab4ffa09f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitefinity WCMS'])[1]/following::li[1]</value>
+      <webElementGuid>028ce14c-0f5c-4631-b216-271726c7a63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitecore WCMS'])[1]/following::li[2]</value>
+      <webElementGuid>8694a615-b1b6-4221-a81a-2f17c4586fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drupal CMS'])[1]/preceding::li[1]</value>
+      <webElementGuid>776716d0-aa1e-488d-a35f-43973a7497f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[5]</value>
+      <webElementGuid>3e2d711b-e74f-4b87-80e0-97cb467978bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Pimcore WCMS' or . = 'Pimcore WCMS')]</value>
+      <webElementGuid>d239c607-e96e-484f-8e27-04df54f57084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

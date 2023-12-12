@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BOOMI VIDEOS_y-gn-img</name>
+   <tag></tag>
+   <elementGuidId>a1d7ca65-d696-48c2-ba9b-58b0141c2397</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/section[4]/div[2]/div/div/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.y-gn-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7fccb93-1208-4bc8-98c8-a1b0c91ffcdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>y-gn-img</value>
+      <webElementGuid>6ded60b0-e4b3-4d03-80fc-c6dc609cb562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services dell_boomi&quot;]/section[@class=&quot;sec-pad&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;clearfix mrg-lr&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-xs-6&quot;]/div[@class=&quot;y-tube-thumbs&quot;]/a[1]/span[@class=&quot;y-gn-img&quot;]</value>
+      <webElementGuid>edaa67fc-5d34-4c07-a13c-9150741626ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2303881a-36df-4d22-a8fd-46510a658dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>y-gn-img</value>
+      <webElementGuid>8617ac1d-0aa5-4fe7-b5ab-5addb1606aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services dell_boomi&quot;]/section[@class=&quot;sec-pad&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;clearfix mrg-lr&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-xs-6&quot;]/div[@class=&quot;y-tube-thumbs&quot;]/a[1]/span[@class=&quot;y-gn-img&quot;]</value>
+      <webElementGuid>3699e375-5e1c-4c3c-8268-ea4f49c2c2c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/section[4]/div[2]/div/div/div/div/div/a/span</value>
+      <webElementGuid>67599346-6252-4df0-9c5d-8c07eba1dc60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOMI VIDEOS'])[1]/following::span[1]</value>
+      <webElementGuid>10c27e73-fd26-4555-937a-4524f1ab30be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assured Boomi integration with external leading ERP and Office platforms'])[1]/following::span[1]</value>
+      <webElementGuid>aec394a9-cdc0-47d2-95ce-c54cc7d972d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi for Healthcare | Ray Business Technologies'])[1]/preceding::span[1]</value>
+      <webElementGuid>be084e5a-376d-49f5-949c-515af5f3864d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Boomi is important to your Business? | Ray Business Technologies'])[1]/preceding::span[2]</value>
+      <webElementGuid>1cd4770f-7a2e-49e2-a8ec-64ea56e5d186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>de0e26d8-3d91-4b18-80b9-e24f6261585b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

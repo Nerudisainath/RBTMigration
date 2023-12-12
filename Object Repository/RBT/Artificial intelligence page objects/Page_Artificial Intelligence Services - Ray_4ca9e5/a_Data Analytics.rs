@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Analytics</name>
+   <tag></tag>
+   <elementGuidId>1587f35f-9250-4d06-ba2c-1f1e376444bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[5]/div[2]/div[2]/div/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5244e2f-23c9-4369-8a21-8a50d32bcf00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/data-analytics</value>
+      <webElementGuid>64ce2b05-1c5d-46e0-b0da-d4afa198f70d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Analytics</value>
+      <webElementGuid>e40f189c-66a5-45f2-bb40-cb536802b38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row dru-widget sitecore-widget&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;dru-block mt-30 sitecore-border&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>bc9d4f92-9b40-49e2-9d26-ba9f5b5a44a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[5]/div[2]/div[2]/div/h4/a</value>
+      <webElementGuid>7a1f3403-2659-415a-a411-0d8130cee538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Data Analytics')])[2]</value>
+      <webElementGuid>c9ef0ecf-fbd9-4e88-a447-23f1f9141967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[3]/following::a[1]</value>
+      <webElementGuid>0b233892-6ec8-4c61-9c98-578747bfc900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine learning'])[1]/following::a[2]</value>
+      <webElementGuid>9f9d45c7-4488-4faf-8d73-968fc3ba153e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[4]/preceding::a[1]</value>
+      <webElementGuid>dee62c4b-a5ab-4644-87c0-78f036becb3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RPA'])[1]/preceding::a[2]</value>
+      <webElementGuid>753a0597-5450-42e3-95ba-13951f94de3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/data-analytics')]</value>
+      <webElementGuid>584c5851-c36a-4894-a900-190100f2c20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/h4/a</value>
+      <webElementGuid>274e2ab1-4400-4484-b5fa-fc5ea73aef95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/data-analytics' and (text() = 'Data Analytics' or . = 'Data Analytics')]</value>
+      <webElementGuid>15c5392c-ceaa-4f18-9354-14e3c1040008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

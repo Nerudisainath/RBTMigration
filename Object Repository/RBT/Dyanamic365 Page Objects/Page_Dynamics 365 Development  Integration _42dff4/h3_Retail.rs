@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Retail</name>
+   <tag></tag>
+   <elementGuidId>d9018584-2c89-498e-841f-20f86ada1d54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='enterprise']/div[3]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>be9b3fc3-0ea1-49ad-b8ca-cd69ded3e227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retail</value>
+      <webElementGuid>facba987-e4d8-40ac-abab-b9b3148ee08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;enterprise&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-sm-4 m-p-left0&quot;]/div[@class=&quot;title-componet clearfix&quot;]/h3[1]</value>
+      <webElementGuid>2c079b94-a3b8-4ad4-951d-20c469339cba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='enterprise']/div[3]/div/div/h3</value>
+      <webElementGuid>bfb75e5c-136b-4425-b5ac-040c857726a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talent'])[1]/following::h3[1]</value>
+      <webElementGuid>7de61ad9-7bab-4c0e-bf66-9c536e20d238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Service'])[1]/following::h3[2]</value>
+      <webElementGuid>8bd30068-52dd-4f4b-89d9-431c3be2d20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/preceding::h3[1]</value>
+      <webElementGuid>22021740-8eb0-404e-acdb-22debb494542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compatible with the User Devices'])[1]/preceding::h3[2]</value>
+      <webElementGuid>3d8ab04b-eb11-47cb-9896-59b8359ebbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Retail']/parent::*</value>
+      <webElementGuid>323f9c42-3acf-4994-8fad-0a11b467ead0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h3</value>
+      <webElementGuid>6237c4e4-d09d-4d0c-a2c2-ebc2cadb5fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Retail' or . = 'Retail')]</value>
+      <webElementGuid>377ee863-f6b7-4777-a480-a1e870b74591</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

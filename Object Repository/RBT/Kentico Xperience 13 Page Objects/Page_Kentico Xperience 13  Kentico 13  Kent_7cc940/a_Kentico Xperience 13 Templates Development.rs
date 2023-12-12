@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kentico Xperience 13 Templates Development</name>
+   <tag></tag>
+   <elementGuidId>7f0f3264-ef47-45ed-96a0-60736d8756a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='k12-solutions']/div/div/div[2]/div/div/div/ul/li[12]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bafc24b5-1ee1-4842-8f82-80ca6be81a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Templates-Development</value>
+      <webElementGuid>73a8294f-24d9-401a-9f53-4413c370b13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Templates Development</value>
+      <webElementGuid>41241f6a-b8f1-4be7-8031-afbbe80f8e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k12-solutions&quot;)/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;row mt-3&quot;]/div[1]/div[@class=&quot;col-sm-12 wow fadeInUp ks13-row animated&quot;]/div[@class=&quot;circle-dot black-dot&quot;]/ul[@class=&quot;request_left_list&quot;]/li[12]/a[1]</value>
+      <webElementGuid>611aa5f4-7698-48d9-8250-85068e8ba970</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='k12-solutions']/div/div/div[2]/div/div/div/ul/li[12]/a</value>
+      <webElementGuid>cb3eb3da-9d77-4c9f-9a25-1874cbe5bbdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kentico Xperience 13 Templates Development')]</value>
+      <webElementGuid>70c09d79-e7c1-4e78-af86-3801bf1fb761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Integration Services'])[2]/following::a[1]</value>
+      <webElementGuid>0cb7450f-6039-4352-8867-0f6eb12bb14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Architecture Planning'])[1]/following::a[2]</value>
+      <webElementGuid>9e0ce592-c94b-4907-8cf2-fcf71df6fdcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Document Management'])[1]/preceding::a[1]</value>
+      <webElementGuid>54aae7d8-365f-41cb-ba09-164b5c38479e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Performance optimization'])[1]/preceding::a[2]</value>
+      <webElementGuid>b86db89f-583b-4d30-af89-2add422bee03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kentico Xperience 13 Templates Development']/parent::*</value>
+      <webElementGuid>cb8261b5-e5aa-4601-a9ec-838ecb4476ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Templates-Development')]</value>
+      <webElementGuid>f2f34363-4fa2-49c8-9e79-78f45acfbc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[12]/a</value>
+      <webElementGuid>cc3bef39-f2c6-41d5-9eba-8a68a7643ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Templates-Development' and (text() = 'Kentico Xperience 13 Templates Development' or . = 'Kentico Xperience 13 Templates Development')]</value>
+      <webElementGuid>4df34f2e-d11e-4f7e-bcfb-0b8079d5ccc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

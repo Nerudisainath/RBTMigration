@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bpmonline CRM Development</name>
+   <tag></tag>
+   <elementGuidId>1a151be8-ded2-45b0-b529-0f8415eb9980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/ul[3]/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>498c364d-27f1-41b1-8d97-c03b74f6691a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/customer-relationship-mgmt/bpm-online</value>
+      <webElementGuid>f4a28566-3ef1-4715-bafb-90d3feaa45bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bpm'online CRM Development</value>
+      <webElementGuid>0774e31b-5226-4710-a7a8-5fec773aeb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[1]</value>
+      <webElementGuid>cbbdbab9-1a79-46be-8373-9d71410318ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/ul[3]/li[2]/a</value>
+      <webElementGuid>2ce15f56-2517-4bb1-841b-9e1c6aac87a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics CRM'])[2]/following::a[1]</value>
+      <webElementGuid>411a20b0-e615-449b-8737-335f606bc03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What we offer:'])[1]/following::a[2]</value>
+      <webElementGuid>6aaae583-4b60-4a32-8e8a-2ad2543be861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gigya Customer Identity Management'])[2]/preceding::a[1]</value>
+      <webElementGuid>401e11fb-fbad-48d8-b409-4c474675f876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vTiger CRM Solutions'])[1]/preceding::a[2]</value>
+      <webElementGuid>592567b5-1cf6-4a83-8ca8-267a829a7153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/solutions/customer-relationship-mgmt/bpm-online')]</value>
+      <webElementGuid>12058235-6855-4eef-bee9-70564633b48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/li[2]/a</value>
+      <webElementGuid>0f65f9d9-178e-467b-928b-94b9423d68e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/solutions/customer-relationship-mgmt/bpm-online' and (text() = concat(&quot;Bpm&quot; , &quot;'&quot; , &quot;online CRM Development&quot;) or . = concat(&quot;Bpm&quot; , &quot;'&quot; , &quot;online CRM Development&quot;))]</value>
+      <webElementGuid>11b796e4-113a-463b-b92b-e98089f0e43b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

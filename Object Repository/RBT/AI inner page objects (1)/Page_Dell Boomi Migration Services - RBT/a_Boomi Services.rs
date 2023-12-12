@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Boomi Services</name>
+   <tag></tag>
+   <elementGuidId>3f572071-c07d-4ef3-9ea4-b2661f590de5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section[2]/div/ol/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8743deee-940a-4c2c-9d64-fd4da7d11e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions</value>
+      <webElementGuid>46d09df9-0721-4c1e-b48f-57b12fa4bf13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boomi Services</value>
+      <webElementGuid>aedef53a-d3ba-4301-9568-8c5483c53c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[2]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[4]/a[1]</value>
+      <webElementGuid>a958c6d5-ac88-4be7-a21f-d48e40669c06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section[2]/div/ol/li[4]/a</value>
+      <webElementGuid>848df5eb-13f4-41a9-8494-4b28d621bd3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Boomi Services')]</value>
+      <webElementGuid>7d4954dc-2d8b-44b8-afbc-84080ad0cf6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Integration'])[2]/following::a[1]</value>
+      <webElementGuid>0948b31c-5285-4327-8c58-53397d1f3dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/following::a[2]</value>
+      <webElementGuid>7e5a9bf3-726b-4ae5-bfe7-207f2ccc0955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete Road-map for Boomi Migration Services'])[1]/preceding::a[1]</value>
+      <webElementGuid>7ed5a9b8-88d0-4b65-aa31-57cd5a88f591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Boomi Services']/parent::*</value>
+      <webElementGuid>daeeb8a9-2a80-4c89-a940-a673e3033fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions')]</value>
+      <webElementGuid>680a8c48-3eb0-4e8e-b351-f599265d6c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[4]/a</value>
+      <webElementGuid>0da166c6-991e-48fc-a336-75a0b2cc0ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/services/applications-integration/dell-boomi-services-solutions' and (text() = 'Boomi Services' or . = 'Boomi Services')]</value>
+      <webElementGuid>fc0c7cc6-96f1-492d-906a-0fe967a2d167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

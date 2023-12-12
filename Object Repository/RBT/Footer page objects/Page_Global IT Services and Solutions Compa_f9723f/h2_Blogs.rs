@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Blogs</name>
+   <tag></tag>
+   <elementGuidId>647667b7-e081-417b-ab7e-507099e36cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/div[2]/div/div/div/div/div[3]/div[2]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.servcontin.row > h2.blue-text.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d1714d6b-3f68-49f8-a628-f316b8abe145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blue-text text-center</value>
+      <webElementGuid>431f063a-09fb-44a1-b1b8-213bdf4308e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blogs</value>
+      <webElementGuid>9ddaac49-9b48-4270-8a8d-3822afd8bece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;testdiv&quot;]/div[2]/div[@class=&quot;pagination_&quot;]/div[@class=&quot;servcont&quot;]/div[@class=&quot;servcontin row&quot;]/h2[@class=&quot;blue-text text-center&quot;]</value>
+      <webElementGuid>3e1c4c3e-ed38-483c-8873-677690395e09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/div[2]/div/div/div/div/div[3]/div[2]/div/div/div/h2</value>
+      <webElementGuid>7dcf37b4-fc08-4c9e-84da-ebad34cdd199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[2]/following::h2[1]</value>
+      <webElementGuid>27d94152-56d6-4ed5-80ce-bebc79b60fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automating media conversion and share to gene...'])[1]/following::h2[1]</value>
+      <webElementGuid>6835bbba-e9ad-474e-a3ae-b2a1f72818c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[3]/preceding::h2[1]</value>
+      <webElementGuid>b8ff97f8-7d6c-4d18-83c7-d7678f8890ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fb483f11-5628-4c14-8a0f-25881996c643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blogs']/parent::*</value>
+      <webElementGuid>994e0385-cc38-47a3-9253-170f81df21db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/h2</value>
+      <webElementGuid>c1984845-81de-4b76-b7d5-68c14e93fa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Blogs' or . = 'Blogs')]</value>
+      <webElementGuid>f771f1c4-59e9-4157-92b6-daa5153269c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

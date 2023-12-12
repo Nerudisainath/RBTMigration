@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_GigyaCustomer Identity  Management</name>
+   <tag></tag>
+   <elementGuidId>c9a9de17-7f61-461b-8212-72fa8a36a42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b944a263-1d51-40df-acf6-8964d6f58b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/customer-relationship-mgmt/gigya-customer-identity-management-solutions</value>
+      <webElementGuid>ca6829bc-42e0-4062-ba49-0a93e8991c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gigya Customer Identity &amp; Management</value>
+      <webElementGuid>91c69c94-bd83-42db-903c-90ca7fb74641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/div[@class=&quot;font-14&quot;]/div[@class=&quot;medium-6 columns inner-sublinks clearfix&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>13c4617e-19ca-45e2-871a-c5e46b7fc77b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div[2]/ul/li[3]/a</value>
+      <webElementGuid>6c3bb19b-2b1c-431b-b21f-8abaab2109ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Gigya Customer Identity &amp; Management')]</value>
+      <webElementGuid>f4892983-82e6-4bbb-b1de-911db4ebb661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Bpm', &quot;'&quot;, 'online')])[2]/following::a[1]</value>
+      <webElementGuid>61503cf7-9a64-4ddb-8fa4-9d245eccda51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics CRM'])[2]/following::a[2]</value>
+      <webElementGuid>fad257d7-9c87-4ee1-a676-5a3366f24863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vTiger CRM'])[2]/preceding::a[1]</value>
+      <webElementGuid>3b5c78c1-baa3-4946-aa84-e416dd3e9663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Retention Management'])[1]/preceding::a[2]</value>
+      <webElementGuid>c37f4881-8af9-4beb-a8b3-44414fa10e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gigya Customer Identity &amp; Management']/parent::*</value>
+      <webElementGuid>5316196d-82ba-45c8-b52b-44d7cfaa8d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/customer-relationship-mgmt/gigya-customer-identity-management-solutions')]</value>
+      <webElementGuid>73b67afd-10bc-4cf6-8057-b2f151347c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/ul/li[3]/a</value>
+      <webElementGuid>b96844eb-28c0-411d-83cc-5c512bff4939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/customer-relationship-mgmt/gigya-customer-identity-management-solutions' and (text() = 'Gigya Customer Identity &amp; Management' or . = 'Gigya Customer Identity &amp; Management')]</value>
+      <webElementGuid>0476f8f1-5e9d-4a36-beeb-e9dabaa8813b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

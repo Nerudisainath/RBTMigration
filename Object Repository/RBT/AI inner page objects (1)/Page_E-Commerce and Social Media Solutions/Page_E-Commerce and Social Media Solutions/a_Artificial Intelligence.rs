@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Artificial Intelligence</name>
+   <tag></tag>
+   <elementGuidId>f2267e09-146f-4196-aad7-23691e88c18f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mCSB_1_container']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f0e0980-e912-4b7c-be88-70f305b1b81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/Artificial-IntellIgence</value>
+      <webElementGuid>0141fe96-a201-47f7-9b09-154607bfe474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artificial Intelligence</value>
+      <webElementGuid>84ee5e6d-e3e9-464a-986c-4d4ae081baa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mCSB_1_container&quot;)/li[2]/a[1]</value>
+      <webElementGuid>8a08e765-7522-427a-a419-fc6a746ff75b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mCSB_1_container']/li[2]/a</value>
+      <webElementGuid>9aa3c4b8-3c87-429f-a3c1-8b502c0a594f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Artificial Intelligence')]</value>
+      <webElementGuid>75b7ee9a-72e0-4f44-81b6-d3dd26989f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Science'])[1]/following::a[1]</value>
+      <webElementGuid>4bf400ec-53d3-473d-a45c-1b227a9779e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Relationship Management'])[1]/following::a[2]</value>
+      <webElementGuid>cbf6e877-be2c-47c8-9b98-c3c01530f00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud Services'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec1a2a43-c144-4bda-83b6-00a95575637e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi - EAI'])[1]/preceding::a[2]</value>
+      <webElementGuid>e4f6c954-798b-48c5-9e8b-7ae05464325f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Artificial Intelligence']/parent::*</value>
+      <webElementGuid>68dcbe8c-bfd7-41de-b8e1-10e8fb88ebc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/solutions/Artificial-IntellIgence')]</value>
+      <webElementGuid>a08d9ba2-39a0-4f7f-b176-45ea2ed10e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[2]/a</value>
+      <webElementGuid>15a07593-02eb-42fc-a412-38eaa2a3ae74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/solutions/Artificial-IntellIgence' and (text() = 'Artificial Intelligence' or . = 'Artificial Intelligence')]</value>
+      <webElementGuid>f4c4c764-26b5-42bb-89bc-4c76dd0cc419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

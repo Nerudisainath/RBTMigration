@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View all</name>
+   <tag></tag>
+   <elementGuidId>8af12dc3-ca74-4606-b3a8-0a462df28816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div[3]/div[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-center.custom-button.btn-transparent-primaryai.btn-large.mart-35.videoscroll</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>876d415b-ce22-438d-9145-f954bf9d5acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center custom-button btn-transparent-primaryai btn-large mart-35 videoscroll</value>
+      <webElementGuid>37331bea-6c0e-43f7-8415-c54d11d8bbce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/categoryVideos?catID=PLtmHTlSHwoYrDbVwKpuZOMd1k1uTDO65o&amp;&amp;pgTle=Artificial+Intelligence</value>
+      <webElementGuid>e2e9291a-ff90-4c22-8475-1dc804c67bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all</value>
+      <webElementGuid>366a294e-5ed5-4d1a-9b30-8461f6c76a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;clearfix mrg-lr&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;text-center&quot;]/a[@class=&quot;text-center custom-button btn-transparent-primaryai btn-large mart-35 videoscroll&quot;]</value>
+      <webElementGuid>af47919d-94be-443c-a0f3-f9ee179e4d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e25e9fa-3a4f-4175-ab26-c6b756afa25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center custom-button btn-transparent-primaryai btn-large mart-35 videoscroll</value>
+      <webElementGuid>6e90be25-b731-488b-a877-b9847b5a0453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/categoryVideos?catID=PLtmHTlSHwoYrDbVwKpuZOMd1k1uTDO65o&amp;&amp;pgTle=Artificial+Intelligence</value>
+      <webElementGuid>d27662eb-e664-4a8a-9891-bbbdd1beb322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all</value>
+      <webElementGuid>fa398f88-90b0-42de-a85a-3058e6849631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;clearfix mrg-lr&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;text-center&quot;]/a[@class=&quot;text-center custom-button btn-transparent-primaryai btn-large mart-35 videoscroll&quot;]</value>
+      <webElementGuid>492aca1b-6836-4e34-b941-b3bbc5ba7ec3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div[3]/div[3]/div/a</value>
+      <webElementGuid>1b2b36a3-4e44-4226-9ee6-07204ff5ac78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all')]</value>
+      <webElementGuid>62fdbd4c-0913-4952-a4d8-e620ec80824f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artificial Intelligence in Automation - Key Applications | Ray Business Technologies'])[1]/following::a[1]</value>
+      <webElementGuid>816eeea5-ab30-4948-b243-768e786530f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Reshaping the Insurance sector | AI in Insurance Sector | Ray Business Technologies'])[1]/following::a[3]</value>
+      <webElementGuid>953b1513-118e-4304-804c-0f9478e03dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related'])[1]/preceding::a[1]</value>
+      <webElementGuid>39b3a2f1-fa0e-45a5-9b61-dbfae2e63f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ChatGPT'])[2]/preceding::a[1]</value>
+      <webElementGuid>e1c8075a-0ee5-4429-a0ec-96103c634f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all']/parent::*</value>
+      <webElementGuid>fb3c0ee9-b1a1-4a69-b89b-7bc564570b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/categoryVideos?catID=PLtmHTlSHwoYrDbVwKpuZOMd1k1uTDO65o&amp;&amp;pgTle=Artificial+Intelligence')]</value>
+      <webElementGuid>aed852ae-42e3-48d5-acaf-b492348b5dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/a</value>
+      <webElementGuid>d60fe230-63a7-44ba-9b2c-8a1790e36e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/categoryVideos?catID=PLtmHTlSHwoYrDbVwKpuZOMd1k1uTDO65o&amp;&amp;pgTle=Artificial+Intelligence' and (text() = 'View all' or . = 'View all')]</value>
+      <webElementGuid>e621f1e3-7824-4022-aea1-9913f7eb2d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

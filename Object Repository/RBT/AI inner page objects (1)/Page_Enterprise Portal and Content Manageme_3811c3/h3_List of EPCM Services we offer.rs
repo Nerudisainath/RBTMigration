@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_List of EPCM Services we offer</name>
+   <tag></tag>
+   <elementGuidId>7c57295c-e0c4-4b11-b856-1f55454de567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/h3[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>177e3a8c-cb08-4339-a0fa-9cb4bb993102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-20</value>
+      <webElementGuid>4ca64204-3034-4973-98c0-e5fdde1c9a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>List of EPCM Services we offer:</value>
+      <webElementGuid>0acec6c2-8ffc-402e-88fa-e6f6833fe709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/h3[@class=&quot;mt-20&quot;]</value>
+      <webElementGuid>f02051bc-d22d-4fc4-9abf-e1d7fe84718f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/h3[3]</value>
+      <webElementGuid>b819e1be-5d74-48c5-b99e-047f5c5f6bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Source EPCM Solutions'])[1]/following::h3[1]</value>
+      <webElementGuid>e512bd8f-71d9-4991-9240-1060df0572ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.Net EPCM Solutions'])[1]/following::h3[1]</value>
+      <webElementGuid>9b9b74a8-2d78-48fa-bcee-275fb42a95b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SharePoint Portal Solutions'])[1]/preceding::h3[1]</value>
+      <webElementGuid>147e49b2-f320-4126-93dc-17eaa2ec6b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico CMS'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5148eb37-dfc2-4a04-a672-05a4000ff742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='List of EPCM Services we offer:']/parent::*</value>
+      <webElementGuid>891df57c-4f4b-4bac-bc94-235e1a788e8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[3]</value>
+      <webElementGuid>5f9631b4-0236-4f46-b76f-4ba0180f09ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'List of EPCM Services we offer:' or . = 'List of EPCM Services we offer:')]</value>
+      <webElementGuid>c0fd0145-69d4-4ea8-b1c0-3ff586c3c973</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

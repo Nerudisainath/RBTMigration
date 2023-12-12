@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>113e2b0b-6696-4457-b2ed-4004004b3c9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section[3]/div/div/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.custom-button.btn-transparent.btn-lg.mb-2.kentico13-bg-button.wow.fadeInRight.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c947a685-6f52-42b2-92d3-78ed00bf843b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-button btn-transparent btn-lg mb-2 kentico13-bg-button wow fadeInRight animated</value>
+      <webElementGuid>aa3c473c-9031-4971-87cf-a1c3417ebd2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-delay</name>
+      <type>Main</type>
+      <value>0.6s</value>
+      <webElementGuid>3385bff6-340c-4450-b6dd-886efb5cabed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-duration</name>
+      <type>Main</type>
+      <value>0.25s</value>
+      <webElementGuid>6c387141-51da-427e-b4cc-8ee973c89ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>f837ab67-6c4f-46e5-b7a1-8c72b5086aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad yellow-bg kentico13-bg&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tbl-parent&quot;]/div[@class=&quot;col-sm-3 tbcell&quot;]/div[1]/div[@class=&quot;tbl&quot;]/button[@class=&quot;custom-button btn-transparent btn-lg mb-2 kentico13-bg-button wow fadeInRight animated&quot;]</value>
+      <webElementGuid>3b0893ee-cc35-4af5-b74f-23a6130101ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section[3]/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>e57b5cd7-43cf-4570-8f0f-88f8d278c652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Shopping Cart'])[1]/following::button[1]</value>
+      <webElementGuid>94ccaf3a-63e2-41c9-8ee3-170c8f9653d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Workflows Development'])[1]/following::button[1]</value>
+      <webElementGuid>c87f7fe9-6e00-4203-bcd7-6a1c53e11de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KENTICO DIGITAL EXPERIENCE PLATFORM MAKES THINGS EASY FOR YOU. NOW YOU CAN:'])[1]/preceding::button[1]</value>
+      <webElementGuid>eacc650f-175b-499c-ae66-2f97ec5c7256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>9c1cbabe-5d01-4609-80f7-1771830bb37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>422b0838-4083-4ae7-920d-018ec5c22f91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

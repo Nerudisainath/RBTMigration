@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enterprise Resource Planning</name>
+   <tag></tag>
+   <elementGuidId>055a58af-874b-456d-8901-3c457543c5a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/section[2]/div/ol/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>537662f1-dd3f-4cc0-9da3-ad7a5d8e55dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning</value>
+      <webElementGuid>eadea391-d297-4aeb-851f-b2ae15611e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise Resource Planning</value>
+      <webElementGuid>1daba1ea-1a8b-4c52-bb9b-db6d57ec251c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/section[2]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[3]/a[1]</value>
+      <webElementGuid>e0c38ff7-a93c-477c-9d7e-ec77bef017a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24f8414a-e87f-45d8-b67b-30e4ee664cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning</value>
+      <webElementGuid>ac2548de-112c-4380-96b9-6a62a3ebc2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise Resource Planning</value>
+      <webElementGuid>81b3594f-bd96-4c01-87b9-6eed2057ca3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/section[2]/div[@class=&quot;container&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[3]/a[1]</value>
+      <webElementGuid>05cc6641-30e4-4bdf-ad05-8398fb44a651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/section[2]/div/ol/li[3]/a</value>
+      <webElementGuid>523c488a-cfa2-4b5e-86fd-d6e1073ed6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enterprise Resource Planning')]</value>
+      <webElementGuid>0203677b-5d1d-40bb-88fb-6b0017d0f2d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[1]/following::a[1]</value>
+      <webElementGuid>a019130e-189f-491d-b251-286f9df24bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>5375bfd5-6ca9-4e85-b827-9abfdfc92647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics AX'])[4]/preceding::a[1]</value>
+      <webElementGuid>24db726a-55a8-47f8-97f5-a8b5a55dc562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics AX'])[5]/preceding::a[1]</value>
+      <webElementGuid>909d9d13-8afe-4ea2-a079-d3b6bafab0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enterprise Resource Planning']/parent::*</value>
+      <webElementGuid>07af17c4-f1a9-45e0-a1c1-dcb775386346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning')])[3]</value>
+      <webElementGuid>c785bc54-5ff0-4206-bd3f-5a726117d61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]/a</value>
+      <webElementGuid>38daf35d-3183-4e8c-bb44-ada4a4742d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning' and (text() = 'Enterprise Resource Planning' or . = 'Enterprise Resource Planning')]</value>
+      <webElementGuid>287cb44f-cb4f-4fc1-91d5-21886411d389</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

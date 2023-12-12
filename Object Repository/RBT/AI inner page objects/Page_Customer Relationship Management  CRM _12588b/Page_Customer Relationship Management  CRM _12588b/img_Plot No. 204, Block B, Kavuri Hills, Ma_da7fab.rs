@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Plot No. 204, Block B, Kavuri Hills, Ma_da7fab</name>
+   <tag></tag>
+   <elementGuidId>8b1f2aa5-33f7-4c6a-8392-8560eeccd740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.banner-text-display > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ffcf8796-f97b-47f4-9eb2-1616b5281829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Customer Relationship Management</value>
+      <webElementGuid>aea3a68b-b255-456b-b3f2-bf306ad6c115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/RBT/media/RBT-Images/Customer-Relationship-Management.png?width=405&amp;height=130&amp;ext=.png</value>
+      <webElementGuid>32bb39de-9271-46ee-9432-d0fc85c53e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>662d3d88-e2aa-4afc-8377-a381f1245ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[@class=&quot;inner-banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;banner-text row&quot;]/div[@class=&quot;col-sm-6 banner-text-display&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>ebd78bb5-28df-4572-84d1-806abeb00c10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      <webElementGuid>c25ef7e6-c00b-4082-93e5-1b864d1239a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Customer Relationship Management']</value>
+      <webElementGuid>9ce75f9e-28b0-468d-8d59-5b5420ba7c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/img</value>
+      <webElementGuid>0118ae92-18f9-4adf-ad89-5a2ed7ddc3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Customer Relationship Management' and @src = 'https://demo19xperience13.raybiztech.com/RBT/media/RBT-Images/Customer-Relationship-Management.png?width=405&amp;height=130&amp;ext=.png']</value>
+      <webElementGuid>b58bd13a-13dd-4f0c-b1af-9347e0847c9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

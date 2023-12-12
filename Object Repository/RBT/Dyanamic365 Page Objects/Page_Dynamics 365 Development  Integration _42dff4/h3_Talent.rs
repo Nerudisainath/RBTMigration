@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Talent</name>
+   <tag></tag>
+   <elementGuidId>aed926dd-17b9-4863-a728-63c65f7aa381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='enterprise']/div[2]/div[3]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b48cce70-bf3b-42fa-b192-313e8b346d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Talent</value>
+      <webElementGuid>acf97e0e-8430-4dae-8909-c4d1d2ad2606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;enterprise&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-sm-4 m-p-right0&quot;]/div[@class=&quot;title-componet clearfix&quot;]/h3[1]</value>
+      <webElementGuid>dcd1042a-3bac-4925-8b0c-9217cdc85fd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='enterprise']/div[2]/div[3]/div/h3</value>
+      <webElementGuid>e7dd0f2c-1a70-4b2c-b249-c5895a3adba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Service'])[1]/following::h3[1]</value>
+      <webElementGuid>edddf162-3eeb-4e9d-babc-0309609a3ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Service'])[1]/following::h3[2]</value>
+      <webElementGuid>a56cb536-4438-4b8d-8e8e-34e21f68c289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retail'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f8a59558-651e-4ac7-ae6c-1490e921ed0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/preceding::h3[2]</value>
+      <webElementGuid>53c1bb33-ce4c-470f-be3c-d9fa7a36ac7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Talent']/parent::*</value>
+      <webElementGuid>83887696-1fae-4ce9-a99f-811236f491bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div/h3</value>
+      <webElementGuid>809ab252-5e97-4a35-ad15-9a3c73140ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Talent' or . = 'Talent')]</value>
+      <webElementGuid>246c6339-9ae3-4afc-acda-08767cb23b67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

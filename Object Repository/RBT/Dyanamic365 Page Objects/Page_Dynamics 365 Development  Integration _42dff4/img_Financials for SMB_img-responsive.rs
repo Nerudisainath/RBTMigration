@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Financials for SMB_img-responsive</name>
+   <tag></tag>
+   <elementGuidId>15e9f98b-e9c4-4d34-af7b-0a9e558fadad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.blue-brand-bg > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4ce254da-08d1-47a0-80d1-8f80c4012581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>bb800afe-73cb-4d01-9365-6ca02d723938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/dollar.png</value>
+      <webElementGuid>f3bad14f-c19f-4001-bae7-66a6875d2b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/div[@class=&quot;main-widget&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row border widget-2&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;row  blue-brand-bg&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>f51cf112-b7f3-4e07-8ebf-1277843f73eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/img</value>
+      <webElementGuid>3d354e69-c81d-4d83-94a0-694060b72a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/dollar.png')]</value>
+      <webElementGuid>7349ae07-035f-4b51-bc9a-81bcd4d932ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>ec190d1e-a020-4394-8332-12b2cb627672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/dollar.png']</value>
+      <webElementGuid>ad36f5e0-2ce6-48c5-9885-c115308a6e50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

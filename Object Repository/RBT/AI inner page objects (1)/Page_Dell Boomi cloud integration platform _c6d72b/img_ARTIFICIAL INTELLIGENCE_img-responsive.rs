@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ARTIFICIAL INTELLIGENCE_img-responsive</name>
+   <tag></tag>
+   <elementGuidId>d599afa8-7a04-49ce-8123-a325e7427000</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/header/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8e4d1e2e-0746-44f3-91ce-185cfeec0aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/getmedia/bf952f26-f2b0-43e6-933d-9ffebb933079/since-2009-ribbon_v2c.png?width=100&amp;height=156&amp;ext=.png</value>
+      <webElementGuid>73a4e12c-2c60-4a44-86f2-47637b287bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>d620967b-5347-4cac-b9de-97b4c4e51a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ray Business Technologies 13 years celebration</value>
+      <webElementGuid>38868d24-83d1-49f0-abb4-03ec4c8c54b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/header[@class=&quot;h-90&quot;]/div[@class=&quot;header navbar-fixed-top&quot;]/div[@class=&quot;container posRel&quot;]/div[@class=&quot;years_celebration fixed-top&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>fa5b9071-c76a-4c4b-ad6e-e4a85a39ea2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/header/div/div/div/img</value>
+      <webElementGuid>22cf5abe-4e62-49c2-92a2-8f829f368dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ray Business Technologies 13 years celebration']</value>
+      <webElementGuid>9956166f-b016-4a7a-a242-5bdc09f571d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>442a7b79-21e0-4c91-b0ee-bc04961d0897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo19xperience13.raybiztech.com/getmedia/bf952f26-f2b0-43e6-933d-9ffebb933079/since-2009-ribbon_v2c.png?width=100&amp;height=156&amp;ext=.png' and @alt = 'Ray Business Technologies 13 years celebration']</value>
+      <webElementGuid>6caae0e9-843a-4e94-b999-69a63e208286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

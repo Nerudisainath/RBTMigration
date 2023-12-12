@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Microsoft Dynamics AX</name>
+   <tag></tag>
+   <elementGuidId>bf614b52-b013-487f-9aff-78cbcc49c6c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/nav/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d8f2715-18e2-4eb1-a30f-c7feab4954b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/Enterprise-Resource-Planning/Microsoft-Dynamics-AX-Solutions</value>
+      <webElementGuid>4e03d53d-e72d-404b-9564-e3e68ff3bf5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Dynamics AX</value>
+      <webElementGuid>4933ef10-e937-4d97-9888-ee58a9660042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;gradient-bg_2&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;greedy-nav&quot;]/ul[@class=&quot;visible-links&quot;]/li[2]/a[1]</value>
+      <webElementGuid>f56aea0b-2503-4eee-a787-2d82830e23bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/nav/ul/li[2]/a</value>
+      <webElementGuid>450101d1-4a75-43ef-b0bf-1332dc82722a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Microsoft Dynamics AX')])[2]</value>
+      <webElementGuid>70f26bac-b1b4-403a-b698-537dd94e88ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics 365'])[3]/following::a[1]</value>
+      <webElementGuid>0acf8e08-8c23-4adf-859f-d444ffa904c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics NAV'])[2]/following::a[2]</value>
+      <webElementGuid>9a287e09-8622-4e4d-9cc0-aeb92c8030c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Microsoft Dynamics NAV'])[3]/preceding::a[1]</value>
+      <webElementGuid>01822df6-0c07-443c-be99-4a906c55d3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERP Architecture Planning'])[1]/preceding::a[2]</value>
+      <webElementGuid>11406bfa-70d0-443b-ae41-b1fcbfc0f190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/solutions/Enterprise-Resource-Planning/Microsoft-Dynamics-AX-Solutions')]</value>
+      <webElementGuid>dfb1c517-06af-4b4a-b071-15de6f28ed67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/nav/ul/li[2]/a</value>
+      <webElementGuid>248df6d1-0012-44e0-98db-fde7c4ce0e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/solutions/Enterprise-Resource-Planning/Microsoft-Dynamics-AX-Solutions' and (text() = 'Microsoft Dynamics AX' or . = 'Microsoft Dynamics AX')]</value>
+      <webElementGuid>96d1be5d-693d-44a1-8af9-f63df0f48d5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

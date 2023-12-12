@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read More_1_2</name>
+   <tag></tag>
+   <elementGuidId>10896299-6431-4255-8e50-dfe11410ffd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[4]/div/div[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de5b295e-942d-44cf-883c-664f3ed7f39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info read-btn</value>
+      <webElementGuid>3529c7ba-5cb0-4ecd-86d1-13ae50394e2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/artificial-intelligence/forecasting</value>
+      <webElementGuid>8f25e195-0fb8-42ad-a4a0-dcf025901231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read More</value>
+      <webElementGuid>89a4c66a-abe3-47f5-bf91-1cf1ea2dfabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row dru-widget sitecore-widget&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;dru-block mt-30 sitecore-border&quot;]/a[@class=&quot;btn btn-info read-btn&quot;]</value>
+      <webElementGuid>dd289fb0-2114-493f-8675-7ce03a4bcf4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[4]/div/div[3]/div/a</value>
+      <webElementGuid>f1eeb955-82f6-4710-a7d3-95d46afcc3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Read More')])[3]</value>
+      <webElementGuid>01619290-9d8d-437f-b577-7dfc87416d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forecasting'])[1]/following::a[1]</value>
+      <webElementGuid>5c81a88c-a7fb-40fb-ad83-dc059009b710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[2]/following::a[2]</value>
+      <webElementGuid>57862220-e53d-40c2-88f3-522305d4e6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine learning'])[1]/preceding::a[1]</value>
+      <webElementGuid>f31426a4-7065-4001-bae9-7aeec6463e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[4]/preceding::a[2]</value>
+      <webElementGuid>d99cf349-4c9e-46eb-a3b1-ffefb0eae033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/artificial-intelligence/forecasting')])[2]</value>
+      <webElementGuid>46420721-4fa4-499c-acd1-2a5512c80e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>8122fdb2-094d-430b-85a4-539b9101797d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/artificial-intelligence/forecasting' and (text() = 'Read More' or . = 'Read More')]</value>
+      <webElementGuid>ac81e5f0-8aaf-4f7e-84f8-40ed1f8ab53e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

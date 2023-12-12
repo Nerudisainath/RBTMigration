@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dynamics AX comes at a reduced licensing _b511b8</name>
+   <tag></tag>
+   <elementGuidId>56065400-dde1-44f7-91fd-91d230376ddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-body > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseOne']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>35ed4752-3b89-4769-baf5-2af61fe957ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dynamics AX comes at a reduced licensing price and this makes the product generate rapid user adoption rate worldwide. The advantageous and cost-effective application is packed with performance to grant you with an improved cost of ownership on your IT infrastructure. Thus, investing on Dynamics AX is a fair deal.</value>
+      <webElementGuid>772f3641-3ece-4bed-b609-2529588c4cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>dc573b8e-4457-4150-aa53-ed65c3260e31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseOne']/div/p</value>
+      <webElementGuid>8a42b36b-b6f7-4d7e-9a44-a8f027e256c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amplify Your IT Funding &amp; Investment'])[1]/following::p[1]</value>
+      <webElementGuid>7773d4d3-c297-4289-b158-4b186f472abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle&lt; /span>'])[1]/following::p[1]</value>
+      <webElementGuid>0823859f-1431-4d81-aa87-ea690c2a0705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[1]/preceding::p[1]</value>
+      <webElementGuid>b28f79b2-4f14-4f87-bfd3-2deb8d69f501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dynamics AX comes at a reduced licensing price and this makes the product generate rapid user adoption rate worldwide. The advantageous and cost-effective application is packed with performance to grant you with an improved cost of ownership on your IT infrastructure. Thus, investing on Dynamics AX is a fair deal.']/parent::*</value>
+      <webElementGuid>b6e0e9f8-0c0e-4472-ad23-f2752c98a436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div/p</value>
+      <webElementGuid>4a8be0bb-beda-4b3e-b27f-2b066498b4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dynamics AX comes at a reduced licensing price and this makes the product generate rapid user adoption rate worldwide. The advantageous and cost-effective application is packed with performance to grant you with an improved cost of ownership on your IT infrastructure. Thus, investing on Dynamics AX is a fair deal.' or . = 'Dynamics AX comes at a reduced licensing price and this makes the product generate rapid user adoption rate worldwide. The advantageous and cost-effective application is packed with performance to grant you with an improved cost of ownership on your IT infrastructure. Thus, investing on Dynamics AX is a fair deal.')]</value>
+      <webElementGuid>a419ca34-446e-454a-a555-d1fe3e6643ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_toggle</name>
+   <tag></tag>
+   <elementGuidId>7753bc79-667a-462e-9ef0-010bfba40e60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne']/h4/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>47642e59-0da3-4bee-abba-c56eb8a5fcca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>more-less fa fa-minus-square </value>
+      <webElementGuid>9acfdb56-c8ff-4306-aafd-26628e3b5339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d829c9f4-37ed-45eb-98db-5a958cec22be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>toggle</value>
+      <webElementGuid>ace7bb00-4f16-490f-81ed-fe74e73c92ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne&quot;)/h4[@class=&quot;panel-title&quot;]/a[1]/i[@class=&quot;more-less fa fa-minus-square&quot;]</value>
+      <webElementGuid>eeccce7a-28c3-4fde-928c-39fcb60aedc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne']/h4/a/i</value>
+      <webElementGuid>96b8fc69-e806-4cfd-bac4-bebbc85acb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consumer Packaged Goods/FMCG'])[1]/following::i[1]</value>
+      <webElementGuid>3686424a-3050-4de8-aae2-570f74f5752a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturing'])[1]/following::i[1]</value>
+      <webElementGuid>e94dc371-5555-4886-a212-c344b8a776c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics 365 integration with Office 365'])[1]/preceding::i[1]</value>
+      <webElementGuid>668201d9-0386-43b5-bf99-71ded606f647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a/i</value>
+      <webElementGuid>a8e5986e-4f76-47db-9672-e4db9f1bc547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'toggle' or . = 'toggle')]</value>
+      <webElementGuid>524fa512-8345-4eb4-b369-1f4832ce9b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

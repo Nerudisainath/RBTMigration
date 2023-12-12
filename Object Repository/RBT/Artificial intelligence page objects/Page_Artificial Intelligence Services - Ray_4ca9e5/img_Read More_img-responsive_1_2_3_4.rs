@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Read More_img-responsive_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>4f248101-006b-4404-8058-599bbc8fbb7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[5]/div[2]/div[4]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ffdeaaa8-450b-4640-bd83-d705deb18dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Data Analytics</value>
+      <webElementGuid>19fd4e57-031f-4cf6-8c1c-0de71d850d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>601f7393-39c9-456a-8e53-1b428395c5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/images/nlp.png</value>
+      <webElementGuid>c41f9737-fb42-4ccc-9769-aff6a661f688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row dru-widget sitecore-widget&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;dru-block mt-30 sitecore-border&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>d3324057-f2c9-4566-9fb3-b17542342a03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[5]/div[2]/div[4]/div/img</value>
+      <webElementGuid>3569e422-557f-4062-b06b-9121681c35b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Data Analytics'])[3]</value>
+      <webElementGuid>582e9007-8fb0-48cd-a673-ce2c21411e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/img</value>
+      <webElementGuid>2d350527-e3c8-423b-9d87-83f3bad813ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Data Analytics' and @src = 'https://demo3xperience13.raybiztech.com/RBT/media/images/nlp.png']</value>
+      <webElementGuid>bd6d60ed-c3eb-4267-a0c6-0772ef601360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

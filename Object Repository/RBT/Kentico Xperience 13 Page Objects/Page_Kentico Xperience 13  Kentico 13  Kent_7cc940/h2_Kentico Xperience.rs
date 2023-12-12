@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Kentico Xperience</name>
+   <tag></tag>
+   <elementGuidId>7495beee-84f3-4f89-8c03-f23d125fded9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section[4]/div[2]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.y-tube-title.text-center.clearfix > h2.wow.fadeInUp.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>edd37a45-1a50-489c-b30f-5dbc1796f812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wow fadeInUp animated</value>
+      <webElementGuid>f93b0865-5faa-4599-88a5-5eaf15849000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-delay</name>
+      <type>Main</type>
+      <value>0.5s</value>
+      <webElementGuid>0bba0302-ce5d-4b47-af9d-c3e6c0fa34c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-duration</name>
+      <type>Main</type>
+      <value>0.25s</value>
+      <webElementGuid>26082788-95bf-4038-b91f-18651c3ac456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience</value>
+      <webElementGuid>682322b4-4c96-4229-acba-d77447eefed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;y-tube-title text-center clearfix&quot;]/h2[@class=&quot;wow fadeInUp animated&quot;]</value>
+      <webElementGuid>50e89b78-e694-4024-a1b6-da98037ad3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>00da8736-337e-4d42-9ca8-b3505dc20a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wow fadeInUp animated</value>
+      <webElementGuid>9d354ce9-7ebb-4e3f-b388-a80b90bc1e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-delay</name>
+      <type>Main</type>
+      <value>0.5s</value>
+      <webElementGuid>dfcd3eaf-be2a-40ae-aaeb-aa7dfb41b394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-duration</name>
+      <type>Main</type>
+      <value>0.25s</value>
+      <webElementGuid>43033781-4bed-4dbd-8720-1f5b4d260100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience</value>
+      <webElementGuid>ec225eb2-4f07-4012-bd77-5e0621ee6993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;y-tube-title text-center clearfix&quot;]/h2[@class=&quot;wow fadeInUp animated&quot;]</value>
+      <webElementGuid>f31fb4f9-fffc-4fbb-ac56-aac129073ddb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section[4]/div[2]/div/div/div/h2</value>
+      <webElementGuid>881c5c67-cf7b-4e85-a2d3-7e1f2bba1d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Now you can integrate Kentico to your Voice assistants such as Google Home and Amazon Alexa.'])[1]/following::h2[2]</value>
+      <webElementGuid>ce370cd8-b27a-4f20-9c67-cf677b328b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boost your productivity with search and dynamic routing'])[1]/following::h2[2]</value>
+      <webElementGuid>37d4ed76-2101-4930-ba6d-6afe80330e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Create New Page Template in Kentico 12 | Ray Business Technologies | Kentico Gold Partner'])[1]/preceding::h2[1]</value>
+      <webElementGuid>00f78dcd-2b63-4b2f-8710-7f92d7aad12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico 12 .NET MVC Widgets and Forms | Ray Business Technologies | Kentico Gold Partner'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8cd9269a-92a4-4ffc-ab1d-d92e8241098e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kentico Xperience']/parent::*</value>
+      <webElementGuid>3f1759cd-cbfe-477e-86c4-7a4fbd6f9e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div[2]/div/div/div/h2</value>
+      <webElementGuid>badc7a7d-24d2-45c2-857f-6ed848d9d2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Kentico Xperience' or . = 'Kentico Xperience')]</value>
+      <webElementGuid>e9af7c2a-63d0-49c2-a7e7-1f4437eb6b8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

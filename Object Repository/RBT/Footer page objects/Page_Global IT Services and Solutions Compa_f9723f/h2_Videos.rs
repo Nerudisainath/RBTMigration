@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Videos</name>
+   <tag></tag>
+   <elementGuidId>b849258c-13c4-47b6-87c6-3160a257cdd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.blue-text.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b579ac11-b1c2-421b-a1ce-136ddcd3f5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blue-text text-center</value>
+      <webElementGuid>6656d5db-3ece-45ec-a802-68bbd8d192d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Videos</value>
+      <webElementGuid>2c0b3639-2587-473b-8774-ad5c96b4f224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[2]/section[@class=&quot;y-tube-section&quot;]/div[@class=&quot;row&quot;]/h2[@class=&quot;blue-text text-center&quot;]</value>
+      <webElementGuid>d9f080fe-f752-477d-b807-4824f4957a38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div/h2</value>
+      <webElementGuid>4d162563-1c4f-4c8d-a175-44fc1802c30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Centric Engagement Model'])[1]/following::h2[1]</value>
+      <webElementGuid>818c6641-1b4d-420f-bb50-86b4e2a7264f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[2]/following::h2[1]</value>
+      <webElementGuid>618d7ac2-ed5e-49b7-aefb-c6baaa53c33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose the Right CMS for ..'])[1]/preceding::h2[1]</value>
+      <webElementGuid>97f7685d-87d7-4106-85db-f892753e84bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Portal Engine vs ..'])[1]/preceding::h2[1]</value>
+      <webElementGuid>065fe67b-ff02-4cdb-a8b5-a0b6056dc20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Videos']/parent::*</value>
+      <webElementGuid>7ea24924-c265-466c-b0a5-e342a0964da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/h2</value>
+      <webElementGuid>3074fd88-b867-4e53-bc9a-ed46a8b16ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Videos' or . = 'Videos')]</value>
+      <webElementGuid>9747c5b2-9ca8-4d9a-89d4-6a183f0df09a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

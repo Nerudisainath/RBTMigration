@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please enter valid Email</name>
+   <tag></tag>
+   <elementGuidId>2229c05d-47f3-46c4-b3ac-01dbfd2e7bfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Email-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Email-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b952fa09-1435-4952-afde-07c1e376b7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Email-error</value>
+      <webElementGuid>fbb5ce6e-b494-4ea5-b9a9-b93f67a173c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter valid Email</value>
+      <webElementGuid>486d16f3-1d1d-498e-bdb8-ca816effaa53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Email-error&quot;)</value>
+      <webElementGuid>af44e6ee-5768-4ad8-875b-e849c038ec98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Email-error']</value>
+      <webElementGuid>6772ba28-fe17-4e8e-8618-e29c048d9854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divid']/div/div[2]/p/span/span</value>
+      <webElementGuid>ca85077f-e612-4cb7-ab00-5dc3d40a5a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Name *'])[1]/following::span[2]</value>
+      <webElementGuid>0d73261e-a916-40fd-86dd-eb0e00b62ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter name'])[1]/following::span[2]</value>
+      <webElementGuid>52fb81b9-2bbd-4a09-9aac-5bdf4dd4d498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Email ID *'])[1]/preceding::span[1]</value>
+      <webElementGuid>42ccc7cf-c0cb-4239-951d-91ce36ab6fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter Phone Number'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb6da51e-4be7-48d3-9390-fdf57a653b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter valid Email']/parent::*</value>
+      <webElementGuid>d6f28e49-21dc-4c99-9e9e-4a3e431fb7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span/span</value>
+      <webElementGuid>92c86150-ea34-49b6-84b9-920a7b7821f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Email-error' and (text() = 'Please enter valid Email' or . = 'Please enter valid Email')]</value>
+      <webElementGuid>4142e838-597c-4b73-a8ba-0c2decab9c8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Strong in architecture and design</name>
+   <tag></tag>
+   <elementGuidId>4511feb9-1c3e-4376-a466-0a0034fe42ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4c28125e-2a25-407b-a44d-de72e214e15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Strong in architecture and design. </value>
+      <webElementGuid>49af9a77-3960-4222-b61f-f6f8f5c5048b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/div[@class=&quot;panel-body circle-dot black-dot&quot;]/ul[@class=&quot;term-list&quot;]/li[2]</value>
+      <webElementGuid>4f89ccda-a8d6-4186-8ccf-40c7534ed684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/div/ul/li[2]</value>
+      <webElementGuid>1da3e23a-0051-45d8-ae8c-a91f34f013d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Willing to own the product and work independently.'])[1]/preceding::li[1]</value>
+      <webElementGuid>9da0ee9e-64c5-499a-a638-3a15fee832dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good communication skills.'])[1]/preceding::li[2]</value>
+      <webElementGuid>d624390e-7e5a-4ce2-974c-e2c13e10712c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[2]</value>
+      <webElementGuid>491f155b-874b-4fde-9a14-c4745ed30482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Strong in architecture and design. ' or . = 'Strong in architecture and design. ')]</value>
+      <webElementGuid>56f2254c-56fb-4a74-902d-bbe1bc8ad7b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

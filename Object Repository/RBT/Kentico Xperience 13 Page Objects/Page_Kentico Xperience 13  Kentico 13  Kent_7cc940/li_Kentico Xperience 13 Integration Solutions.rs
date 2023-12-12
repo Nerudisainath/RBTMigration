@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Kentico Xperience 13 Integration Solutions</name>
+   <tag></tag>
+   <elementGuidId>38be0ac4-7b4e-475c-a2ee-268502dbba61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8928b699-5642-413b-8721-ba3deeeaa87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Integration Solutions</value>
+      <webElementGuid>d850bbe2-be40-44a9-a73d-e68b841ce317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad text-center padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-offset-1 col-md-10&quot;]/div[1]/div[@class=&quot;wow fadeInUp circle-dot black-dot animated&quot;]/ul[@class=&quot;text-left&quot;]/li[5]</value>
+      <webElementGuid>18bf216d-02e8-4a42-969e-e427beaf4898</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[5]</value>
+      <webElementGuid>058e4d06-8568-4c40-ab42-f27b6503b9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Ecommerce Solutions'])[1]/following::li[1]</value>
+      <webElementGuid>aa7b5c90-a542-4ab0-af81-6be5e42575b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Development'])[1]/following::li[2]</value>
+      <webElementGuid>27d8ef2a-5a89-4801-8cee-a5a2c845089c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Maintenance &amp; Support'])[1]/preceding::li[1]</value>
+      <webElementGuid>71fd8dbd-bace-4224-9236-d58cbc6a8948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[5]</value>
+      <webElementGuid>3f7b8054-2f51-4755-9dda-e3c2663dcc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Kentico Xperience 13 Integration Solutions' or . = 'Kentico Xperience 13 Integration Solutions')]</value>
+      <webElementGuid>d4bd2ee2-f774-4ba9-a8b9-ae3c61913a00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

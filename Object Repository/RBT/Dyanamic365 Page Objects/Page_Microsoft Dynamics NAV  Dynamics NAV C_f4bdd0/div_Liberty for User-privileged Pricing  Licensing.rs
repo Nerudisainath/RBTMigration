@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Liberty for User-privileged Pricing  Licensing</name>
+   <tag></tag>
+   <elementGuidId>05ff5dd4-c541-49af-b93f-91498d7664d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#927</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='927']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36ddc79c-dffb-42a7-b013-220af72abeb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-heading panel_bg</value>
+      <webElementGuid>99a975c7-75d9-49ce-82a6-41f65f95f921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>927</value>
+      <webElementGuid>ea9ce16f-ece2-49c6-af24-76f29a9e1f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>63270cc8-606e-431e-9ab9-7eab9b411e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Liberty for User-privileged Pricing &amp; Licensing 
+</value>
+      <webElementGuid>ca9225bf-6f09-49d8-b22b-fd5bce3d0717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;927&quot;)</value>
+      <webElementGuid>9bc2d182-7ca9-428a-93cc-7ffc3ff8d538</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='927']</value>
+      <webElementGuid>6d2be111-d15b-4d77-a8d6-23868c5b87fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div[2]/div</value>
+      <webElementGuid>dce3b8ea-4757-47b1-b6f8-27af4fc60f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics NAV Filled with Dosage of Discounts'])[1]/following::div[4]</value>
+      <webElementGuid>e19633f9-acf4-457b-b950-8fe8e884c610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits of Dynamics NAV'])[1]/following::div[7]</value>
+      <webElementGuid>10e0ed4d-c9e9-45a9-90ef-e87ed1fa729e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out-of-Office &amp; Right-in-the-Fields for Mobility'])[1]/preceding::div[3]</value>
+      <webElementGuid>cda36f1d-b230-49d9-87c5-544f952be71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>ca7fc49b-5eaa-4e74-b29d-34c9d9a68696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '927' and (text() = '
+Liberty for User-privileged Pricing &amp; Licensing 
+' or . = '
+Liberty for User-privileged Pricing &amp; Licensing 
+')]</value>
+      <webElementGuid>51031e20-cf34-4bd0-a20f-d51361941ba8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

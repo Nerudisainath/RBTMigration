@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dynamics 365</name>
+   <tag></tag>
+   <elementGuidId>3345943c-f903-400e-8c04-0ff064fc1ad9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/header/div/div[2]/nav/div[4]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f01fded-3b07-4906-81b9-4f2b2f3f9ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning/microsoft-dynamics-365</value>
+      <webElementGuid>ec2ef6d7-ca6a-45f4-97e8-1573a0fe3bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dynamics 365</value>
+      <webElementGuid>da2d50d7-1369-44f4-9845-03f875cd7033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/header[@class=&quot;h-90&quot;]/div[@class=&quot;header navbar-fixed-top&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;collapse navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;hidden-xs active&quot;]/a[1]</value>
+      <webElementGuid>a5212ef6-9d6c-4dbb-908d-e58bb4c2f4f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/header/div/div[2]/nav/div[4]/ul/li[2]/a</value>
+      <webElementGuid>530382f8-03de-42f7-b2e2-d3dd04b1fac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dynamics 365')]</value>
+      <webElementGuid>6a6bced3-a60d-4298-93fe-94a7858f1cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARTIFICIAL INTELLIGENCE'])[1]/following::a[1]</value>
+      <webElementGuid>a4cf7bb1-d867-41e2-84ea-d7709c7ac5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KENTICO XPERIENCE 13'])[1]/preceding::a[1]</value>
+      <webElementGuid>6381ef81-8814-4c8e-bf8e-0ef40aba9cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAREERS'])[1]/preceding::a[2]</value>
+      <webElementGuid>b0f3ccf0-3646-4a95-8c7b-d6a5fbaf3a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dynamics 365']/parent::*</value>
+      <webElementGuid>a3030e1a-94fd-40c2-9e26-b906e74abe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning/microsoft-dynamics-365')]</value>
+      <webElementGuid>f0217b4d-30fa-4ea0-8253-772ad8b1c833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>fef32c88-44df-4b20-a187-370017b7dfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/solutions/enterprise-resource-planning/microsoft-dynamics-365' and (text() = 'Dynamics 365' or . = 'Dynamics 365')]</value>
+      <webElementGuid>7b37047e-bd02-4d87-aadb-8971391c3ac9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

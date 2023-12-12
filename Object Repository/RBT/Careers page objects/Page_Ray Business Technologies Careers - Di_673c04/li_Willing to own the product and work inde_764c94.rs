@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Willing to own the product and work inde_764c94</name>
+   <tag></tag>
+   <elementGuidId>7d307d92-4a11-4de8-9212-33cd25783248</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>720384c4-d6c2-43fa-b518-58b424738ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Willing to own the product and work independently.</value>
+      <webElementGuid>3a9313e2-021b-4624-8e10-8446b5d80fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/div[@class=&quot;panel-body circle-dot black-dot&quot;]/ul[@class=&quot;term-list&quot;]/li[3]</value>
+      <webElementGuid>5a10eee7-e840-4103-880a-d5a56c0a999a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/div/ul/li[3]</value>
+      <webElementGuid>424f1498-8864-46bc-a5cb-f94af8a30ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good communication skills.'])[1]/preceding::li[1]</value>
+      <webElementGuid>80c7df22-4a23-4c6f-b76a-319a3490378c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participated in Analysis and Design of the Enhancements in a proactive way.'])[1]/preceding::li[2]</value>
+      <webElementGuid>402884be-c5d7-46d5-b324-801f073b2820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Willing to own the product and work independently.']/parent::*</value>
+      <webElementGuid>42ac1bb7-742b-44e0-b2b6-9cfc93c9638a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[3]</value>
+      <webElementGuid>dc671e38-25d9-49ce-b8e3-bc8b2afcb861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Willing to own the product and work independently.' or . = 'Willing to own the product and work independently.')]</value>
+      <webElementGuid>f953fd65-53fc-4fa9-b75b-36ce2222c784</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

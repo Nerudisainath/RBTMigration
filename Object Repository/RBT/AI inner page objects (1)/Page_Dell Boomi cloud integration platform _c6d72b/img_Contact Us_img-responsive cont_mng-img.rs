@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Contact Us_img-responsive cont_mng-img</name>
+   <tag></tag>
+   <elementGuidId>44a9a9ad-ed81-4f7e-b772-37e7ca236198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div[3]/section/div/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.cont_mng-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2c6958d6-2091-4d22-8c27-bac285c79c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/dell_boomi_integration_consulting_and_migration.jpg</value>
+      <webElementGuid>3cb5ef57-c82b-4efa-8b5b-539b2ebd4762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive cont_mng-img</value>
+      <webElementGuid>a705a46a-2368-4460-b227-516828092350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services dell_boomi&quot;]/div[3]/section[@class=&quot;sec-pad padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-5&quot;]/div[@class=&quot;img-section&quot;]/div[@class=&quot;imageGallery&quot;]/a[1]/img[@class=&quot;img-responsive cont_mng-img&quot;]</value>
+      <webElementGuid>3379f8e6-4b37-4bd1-8043-c7af7682d24c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div[3]/section/div/div/div/div/div/a/img</value>
+      <webElementGuid>f11098dc-a367-4f60-a174-bc1cbb742f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo19xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/dell_boomi_integration_consulting_and_migration.jpg')]</value>
+      <webElementGuid>5ffe9fd4-206f-477a-94aa-eef5252d94ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/img</value>
+      <webElementGuid>870d423b-6121-44d7-aa84-85b737b6555c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo19xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/dell_boomi_integration_consulting_and_migration.jpg']</value>
+      <webElementGuid>85bf063c-0481-4282-ad7d-d084407918f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

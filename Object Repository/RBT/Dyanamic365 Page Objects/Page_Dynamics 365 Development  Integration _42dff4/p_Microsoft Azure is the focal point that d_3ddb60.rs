@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Microsoft Azure is the focal point that d_3ddb60</name>
+   <tag></tag>
+   <elementGuidId>f4b6631d-99fa-415c-8044-f4d12d6a9480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse17']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapse17 > div.panel-body > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>14047936-64ed-4bb8-b311-547a38a89b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.</value>
+      <webElementGuid>c2c789cc-668b-4328-b139-54e9f8714deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse17&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>47fb777d-88bd-46ae-ad3d-fe006f1adbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>70a3b85f-1fcf-4f08-9147-597e0bda7c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.</value>
+      <webElementGuid>c46fb231-00ed-4fb4-8500-802f88928740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse17&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>2254ae8f-6894-4560-832a-ae5cb62b94f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f3f46579-6727-4c9b-81d1-be96017849c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.</value>
+      <webElementGuid>e20cd714-fd7e-4d30-83d1-8e5fc945b5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse17&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>ab27913d-8925-4216-9c1b-127c127cba11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse17']/div/p</value>
+      <webElementGuid>5d914749-ac6c-481f-a5a1-75eade4e4dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[15]/following::p[1]</value>
+      <webElementGuid>7fca1c39-582b-4c12-b28e-14afc052534c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance'])[1]/preceding::p[2]</value>
+      <webElementGuid>7b612c2c-7669-4cba-ad71-37db4de4aad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Behavior-Driven Development (BDD)'])[1]/preceding::p[2]</value>
+      <webElementGuid>adc579f1-bf01-4349-82d2-66f6030aa1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.']/parent::*</value>
+      <webElementGuid>b291d5a1-baa6-4b60-991c-d9767c7829ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div[2]/div/p</value>
+      <webElementGuid>606cf49a-fb49-4bb4-a863-82f11a34fc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.' or . = 'Microsoft Azure is the focal point that drives creative innovation in Dynamics 365. Presently, Microsoft continues to leverage all the existing apps outside of Azure.')]</value>
+      <webElementGuid>9117bf72-7e58-4674-9e20-587b8fda3bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related'])[1]/preceding::p[2]</value>
+      <webElementGuid>89a1210e-3366-443e-9acb-e54a66618bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise Portal &amp; Content Management'])[1]/preceding::p[2]</value>
+      <webElementGuid>5c23eca4-6698-4244-b336-fed2349527c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

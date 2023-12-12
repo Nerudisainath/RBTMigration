@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Statistical Techniques driven by advan_97fd52</name>
+   <tag></tag>
+   <elementGuidId>12017255-8308-4aec-9820-ce092d80fe0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/div[2]/ul/li[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cade5db8-e599-4703-b02b-0bbc9dd8403e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>big-font</value>
+      <webElementGuid>3524f6c9-4095-4dc3-97c9-b2060716d46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Statistical Techniques driven by advanced Data Sciences</value>
+      <webElementGuid>da6722ae-d7e5-49e3-bcdf-fd95fb421d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;widget-3 cus_widget custom-widget clearfix&quot;]/div[@class=&quot;drupal-dev-widget&quot;]/div[@class=&quot;col-sm-7&quot;]/ul[@class=&quot;liststyle-1 mt-20&quot;]/li[5]/span[@class=&quot;big-font&quot;]</value>
+      <webElementGuid>a156b64b-44cb-4a56-96d1-fd87f86e3631</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/div[2]/ul/li[5]/span</value>
+      <webElementGuid>98740f1a-66fe-4166-b467-f0458dd90c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modern Data Science methodologies with Data Cleaning'])[1]/following::span[1]</value>
+      <webElementGuid>e32d314d-7458-46de-83f6-9b1c2566ad70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine Learning to Drive Business Intelligence Data'])[1]/following::span[2]</value>
+      <webElementGuid>ddef858b-4177-45f1-a1cd-13b8737c4c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shiny R App'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c5d7fbd-86af-4497-af15-6bbd167e90dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/preceding::span[1]</value>
+      <webElementGuid>c0cf6c4a-26b9-4979-a66f-da273de16f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Statistical Techniques driven by advanced Data Sciences']/parent::*</value>
+      <webElementGuid>edcbcb00-70b9-453d-99b1-3dcea7c60711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span</value>
+      <webElementGuid>1abf36ad-338d-4b85-86ba-2fd62690b3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Statistical Techniques driven by advanced Data Sciences' or . = 'Statistical Techniques driven by advanced Data Sciences')]</value>
+      <webElementGuid>3d753294-6b64-41cf-a687-626d44b61b7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kentico Xperience 13 Ecommerce Solutions_1</name>
+   <tag></tag>
+   <elementGuidId>afc2075d-7e04-43d3-90e0-89b7628ffa9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='k12-solutions']/div/div/div/div/div[4]/div/div[2]/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1384380a-92ff-4892-969f-69a7a9df5ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Ecommerce-Solutions</value>
+      <webElementGuid>ad8cc5d7-4873-43cf-895d-f54afc03439b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Ecommerce Solutions</value>
+      <webElementGuid>6541a0c1-6dab-4fed-a3c6-7b00e5adbce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k12-solutions&quot;)/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;pagination_ ks13-row&quot;]/div[@class=&quot;row ks13-row&quot;]/div[@class=&quot;col-sm-6 col-md-3 wow fadeInUp animated&quot;]/div[@class=&quot;widget-block white-bg patb-30 solutions-widget&quot;]/div[@class=&quot;block-data&quot;]/h4[@class=&quot;text-center uppercase&quot;]/a[1]</value>
+      <webElementGuid>c7f42aae-9d56-45c2-a66e-accc931b092d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d50541df-f06d-426d-8eda-41496821d81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Ecommerce-Solutions</value>
+      <webElementGuid>ecee16c2-4e0c-4a08-8fa1-038dcd90e092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Ecommerce Solutions</value>
+      <webElementGuid>824838a0-f4a1-4294-bfbb-2a1b57628dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k12-solutions&quot;)/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;pagination_ ks13-row&quot;]/div[@class=&quot;row ks13-row&quot;]/div[@class=&quot;col-sm-6 col-md-3 wow fadeInUp animated&quot;]/div[@class=&quot;widget-block white-bg patb-30 solutions-widget&quot;]/div[@class=&quot;block-data&quot;]/h4[@class=&quot;text-center uppercase&quot;]/a[1]</value>
+      <webElementGuid>ddec7a83-3c2d-4c36-a805-a46506da356f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='k12-solutions']/div/div/div/div/div[4]/div/div[2]/h4/a</value>
+      <webElementGuid>c2e9bcc4-3bc4-4b67-aaa4-56d39fe92675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Kentico Xperience 13 Ecommerce Solutions')])[2]</value>
+      <webElementGuid>b4a56be0-768e-4689-8af6-36e5e02fecba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Development Services'])[1]/following::a[2]</value>
+      <webElementGuid>9d363e63-a73a-479b-b8b7-707f3c0da50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Consulting Services'])[1]/following::a[4]</value>
+      <webElementGuid>12a16a77-6087-4833-b763-3e205a173dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Migration and Upgrade'])[1]/preceding::a[2]</value>
+      <webElementGuid>e121f72a-9058-4763-a8f5-37e11c46208c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Integration Services'])[1]/preceding::a[4]</value>
+      <webElementGuid>c09e6c64-4700-42ca-9f07-a724fc6e6f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Ecommerce-Solutions')]</value>
+      <webElementGuid>653d497e-bf04-4b9f-8925-06801862aa03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div[4]/div/div[2]/h4/a</value>
+      <webElementGuid>a381d803-44fb-4b42-bee2-65e8508a09f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/Kentico-Ecommerce-Solutions' and (text() = 'Kentico Xperience 13 Ecommerce Solutions' or . = 'Kentico Xperience 13 Ecommerce Solutions')]</value>
+      <webElementGuid>c0535373-b389-4373-9fe5-35d32ce747c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

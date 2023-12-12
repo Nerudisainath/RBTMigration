@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Current Openings_mb16 img-responsive</name>
+   <tag></tag>
+   <elementGuidId>8d5a5870-feab-4e5f-9007-e70c74ce5315</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[4]/div[2]/div[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.mb16.img-responsive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e05aa4a7-3b09-4fbc-9311-5807f389c4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb16 img-responsive</value>
+      <webElementGuid>835f9856-5d7f-4cd2-a6c8-bbf59999e656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/careers.jpg</value>
+      <webElementGuid>44d1392f-56b8-4ee4-a99c-aee306bb4f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;row desc&quot;]/div[@class=&quot;col-md-6&quot;]/img[@class=&quot;mb16 img-responsive&quot;]</value>
+      <webElementGuid>6089e181-ca73-42a2-bb0b-f3e028b9e08d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[4]/div[2]/div[3]/img</value>
+      <webElementGuid>49bae197-0cab-4fd4-aefb-f35585184235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/careers.jpg')]</value>
+      <webElementGuid>960066f2-5186-4188-861d-d3397af6bcfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/img</value>
+      <webElementGuid>2b9cbfdd-b8ee-42cc-91cc-a4cc00304d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/careers.jpg']</value>
+      <webElementGuid>074533a6-f65a-4a27-b13d-97b077386000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

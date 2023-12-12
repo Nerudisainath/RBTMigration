@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>fe625fb7-91a1-41f6-bacf-b3791f1d7176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.custom-button.btn-transparent.btn-large.mb-20.mt-1.banner-contact-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section/div[2]/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59d11629-40ae-40e0-9dec-7610376cde18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-button btn-transparent btn-large mb-20 mt-1 banner-contact-btn</value>
+      <webElementGuid>5408e5a9-afcc-4faf-af1b-f0f6aa99dd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/contact</value>
+      <webElementGuid>f0f24e51-3ce3-4ff8-9e43-bf6aa8687e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>1fe7423b-ee43-4bc3-9bcb-a3555ce62a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services dell_boomi&quot;]/div[1]/section[@class=&quot;page-banner clouds&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/div[@class=&quot;row center-item col_2&quot;]/div[@class=&quot;col-md-4 col-md-pull-8 pl-banner col_2_right_side&quot;]/div[1]/a[@class=&quot;custom-button btn-transparent btn-large mb-20 mt-1 banner-contact-btn&quot;]</value>
+      <webElementGuid>ac55a9be-d84f-47d2-9742-f49de6e16da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cc3122b-cce1-4779-b4d3-080d73740a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-button btn-transparent btn-large mb-20 mt-1 banner-contact-btn</value>
+      <webElementGuid>fc808204-62f3-4757-a56f-6caebb9655fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/contact</value>
+      <webElementGuid>c20e1068-7332-4f9c-8ee1-a613a965862a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>9b2c2b0a-6852-4c0f-8276-3b01bd0176e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services dell_boomi&quot;]/div[1]/section[@class=&quot;page-banner clouds&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;center&quot;]/div[@class=&quot;row center-item col_2&quot;]/div[@class=&quot;col-md-4 col-md-pull-8 pl-banner col_2_right_side&quot;]/div[1]/a[@class=&quot;custom-button btn-transparent btn-large mb-20 mt-1 banner-contact-btn&quot;]</value>
+      <webElementGuid>3397ae1b-9b54-4e9a-871c-0f0f3542a738</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section/div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>f78e5f8e-d396-4fc5-9c88-1c453ad3067c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>2cd6c261-0c9e-4a39-b3ae-3c10cf8ead1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOMI - EAI'])[5]/following::a[1]</value>
+      <webElementGuid>8a1e8056-06ed-49b2-90fb-c40eca820791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOMI - EAI'])[4]/following::a[1]</value>
+      <webElementGuid>a8a47220-cdea-468c-920d-88149524f7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOMI SERVICES &amp; SOLUTIONS'])[1]/preceding::a[1]</value>
+      <webElementGuid>91ab4011-14c2-41bc-b6cd-c35b67b87101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certified Boomi Developers'])[1]/preceding::a[1]</value>
+      <webElementGuid>e5ef95d1-abdd-43ff-afb9-3594be2c7942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>9459f1cb-5d93-462d-a058-e6cdb16a011d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo19xperience13.raybiztech.com/contact')])[16]</value>
+      <webElementGuid>2a4f4388-9703-4334-a8ea-adde6cf34c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>794cdfc5-9e0b-4403-907a-4ad1daf8c92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/contact' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>3b3b2c35-f2cf-4b6b-a4f2-31d6d3f2918a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

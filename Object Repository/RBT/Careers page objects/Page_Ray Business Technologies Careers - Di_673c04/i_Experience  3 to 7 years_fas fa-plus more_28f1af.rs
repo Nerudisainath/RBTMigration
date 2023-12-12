@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Experience  3 to 7 years_fas fa-plus more_28f1af</name>
+   <tag></tag>
+   <elementGuidId>28cf299c-d434-48fc-9faa-fa45d5630574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne']/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus.more-less.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>704a102b-82df-40e4-af21-657ed6cd3bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus more-less fa-plus</value>
+      <webElementGuid>8e2560c3-5e03-48f1-a534-95181a204854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>69bd00fb-c6be-4948-a506-33c5c137b064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@id=&quot;headingOne&quot;]/a[@class=&quot;plus-icon collapsed&quot;]/i[@class=&quot;fas fa-plus more-less fa-plus&quot;]</value>
+      <webElementGuid>78f7e99d-cf0e-44de-876f-8fe19d1a05f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne']/a/i</value>
+      <webElementGuid>c49585a3-3f60-492d-9c11-d4c836f62f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>6de50ccb-723e-49fd-8e2b-30c399c55f15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

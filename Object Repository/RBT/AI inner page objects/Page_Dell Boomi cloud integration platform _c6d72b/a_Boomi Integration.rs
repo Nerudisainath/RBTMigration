@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Boomi Integration</name>
+   <tag></tag>
+   <elementGuidId>360c00ba-b6c1-40d9-a03b-832c6572644d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='k12-solutions']/div/div/div/div[5]/div/div[2]/h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee4743b0-fef8-4256-99a3-8f62df0b19c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/Services/Applications-Integration/dell-boomi-services-solutions/Dell-Boomi-Integration</value>
+      <webElementGuid>a638c282-b1e5-430d-9148-d36b85bcca8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boomi Integration</value>
+      <webElementGuid>93d84325-6eb5-422b-bdd3-777f5d78c07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k12-solutions&quot;)/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;pagination_ ks13-row&quot;]/div[@class=&quot;col-sm-6 col-md-3 wow fadeInUp animated&quot;]/div[@class=&quot;widget-block white-bg patb-30 solutions-widget&quot;]/div[@class=&quot;block-data&quot;]/h4[@class=&quot;text-center uppercase&quot;]/a[1]</value>
+      <webElementGuid>c185047f-2ac9-423b-9a2f-1c9ff7c4d462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6889fbf-ce48-4174-80c6-50b5f432c5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/Services/Applications-Integration/dell-boomi-services-solutions/Dell-Boomi-Integration</value>
+      <webElementGuid>e795c242-8cee-480c-beea-10afde7f9d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boomi Integration</value>
+      <webElementGuid>5048d143-3e72-442d-8656-bc2a747a37a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k12-solutions&quot;)/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;pagination_ ks13-row&quot;]/div[@class=&quot;col-sm-6 col-md-3 wow fadeInUp animated&quot;]/div[@class=&quot;widget-block white-bg patb-30 solutions-widget&quot;]/div[@class=&quot;block-data&quot;]/h4[@class=&quot;text-center uppercase&quot;]/a[1]</value>
+      <webElementGuid>640747e9-e219-418e-95d6-42a242a02c5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='k12-solutions']/div/div/div/div[5]/div/div[2]/h4/a</value>
+      <webElementGuid>8073f75e-4433-427a-95ad-6e346defc1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Boomi Integration')]</value>
+      <webElementGuid>b8a00253-dcec-4e81-8331-35379b441d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi Implementation'])[1]/following::a[2]</value>
+      <webElementGuid>2c86b3f7-65a8-4adb-8842-3fd8170ddf20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi eCommerce'])[1]/following::a[4]</value>
+      <webElementGuid>76c082e2-8acb-43a1-bca3-ede4fc9a31bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi Deployment Services'])[1]/preceding::a[4]</value>
+      <webElementGuid>89163e12-97ba-4968-99a9-b0a24c930d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Boomi Integration']/parent::*</value>
+      <webElementGuid>510eff6b-34e2-4874-a0f1-fff24d9553df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/Services/Applications-Integration/dell-boomi-services-solutions/Dell-Boomi-Integration')]</value>
+      <webElementGuid>bb41aaf5-3165-4858-9a29-72e96b78751b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div[5]/div/div[2]/h4/a</value>
+      <webElementGuid>2acc2508-99dd-4127-a4b7-7110124d8c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/Services/Applications-Integration/dell-boomi-services-solutions/Dell-Boomi-Integration' and (text() = 'Boomi Integration' or . = 'Boomi Integration')]</value>
+      <webElementGuid>9a419576-9b4e-4f6b-84e7-a6380baf088e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

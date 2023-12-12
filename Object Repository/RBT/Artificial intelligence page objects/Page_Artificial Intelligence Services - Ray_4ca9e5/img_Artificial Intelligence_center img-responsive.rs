@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Artificial Intelligence_center img-responsive</name>
+   <tag></tag>
+   <elementGuidId>f1cdd8c1-a6ad-4714-b404-fa0dad87c159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.center.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div/section/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c0dbbe78-60f5-43e5-aaf9-9358b2986a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Kentico Consulting Services</value>
+      <webElementGuid>b9bf4722-6abe-44c0-9e54-f76a7b7d92a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center img-responsive</value>
+      <webElementGuid>dcdde25d-97c1-4b94-ad8a-ee7c8df6c4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/artificial-intelligence-services.png</value>
+      <webElementGuid>4b78c728-7a2c-4b12-ac85-c44083b8824b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;widget-1 clearfix drupal-cms-main&quot;]/div[@class=&quot;col-sm-4 col-sm-push-8&quot;]/img[@class=&quot;center img-responsive&quot;]</value>
+      <webElementGuid>fb0354f6-1079-483c-9d16-da8363d29380</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div/section/div/img</value>
+      <webElementGuid>839087f9-b693-4c81-be6d-eb62f8761c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Kentico Consulting Services']</value>
+      <webElementGuid>902206e6-c5ed-4b5e-9b89-5981e9ad42bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/img</value>
+      <webElementGuid>c38fa41b-adb9-4570-a15b-7d77c2892ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Kentico Consulting Services' and @src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/artificial-intelligence-services.png']</value>
+      <webElementGuid>3798a029-4747-4517-8e1b-7843688b845a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

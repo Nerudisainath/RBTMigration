@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Technology  People  Process_img-responsive</name>
+   <tag></tag>
+   <elementGuidId>bddc14fd-c727-4240-ae5f-ae0752bc275d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.banner-text-display > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/section/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8c188fa5-4753-4c95-a351-e2039bd38e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Artificial Intelligence</value>
+      <webElementGuid>47106186-f336-4417-912f-dc5ff0c94245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/aboutus-banner.png?ext=.png</value>
+      <webElementGuid>b4e0ef7d-8b7a-410d-bed5-a944331426ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>a4e571fb-546d-4c29-8cb4-401d45397f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/section[@class=&quot;inner-banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;banner-text row&quot;]/div[@class=&quot;col-sm-6 banner-text-display&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>3ee6ca99-eb99-4070-92e0-7d688c04c15c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/section/div/div/div[2]/img</value>
+      <webElementGuid>f6e7cbb4-05f9-479a-a50a-898232e8ad0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Artificial Intelligence']</value>
+      <webElementGuid>2b6580e5-4b6c-41c8-9b82-08ce5dd5dba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/img</value>
+      <webElementGuid>c2cf5a07-0e5b-445b-9804-84a9899694b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Artificial Intelligence' and @src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/aboutus-banner.png?ext=.png']</value>
+      <webElementGuid>3708ca1c-8d00-4523-9d83-f76b0043a651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

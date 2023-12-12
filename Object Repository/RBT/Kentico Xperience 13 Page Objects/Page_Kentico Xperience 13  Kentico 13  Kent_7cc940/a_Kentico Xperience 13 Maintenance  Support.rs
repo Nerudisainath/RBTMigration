@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kentico Xperience 13 Maintenance  Support</name>
+   <tag></tag>
+   <elementGuidId>b2728c38-caec-4a81-95c0-0e9e8a32f272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5ed4e54b-426f-4d1c-aef2-109f225949f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/kentico-maintenance-services</value>
+      <webElementGuid>2498c960-ca70-4338-a7cc-bc3fc8fd460c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Maintenance &amp; Support</value>
+      <webElementGuid>54d3efc4-575c-4eba-b8d8-416d467dff92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad text-center padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-offset-1 col-md-10&quot;]/div[1]/div[@class=&quot;wow fadeInUp circle-dot black-dot animated&quot;]/ul[@class=&quot;text-left&quot;]/li[6]/a[1]</value>
+      <webElementGuid>f2b5a65a-bc28-44bf-a7d1-9b71f8b7f773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>72302d50-d67d-48b0-a97e-f217ca4f4b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/kentico-maintenance-services</value>
+      <webElementGuid>f6adde6c-6e55-49e5-9f32-2c2b5a447e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Maintenance &amp; Support</value>
+      <webElementGuid>16fb5b31-b2e1-4694-b85c-b15e557262ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad text-center padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-offset-1 col-md-10&quot;]/div[1]/div[@class=&quot;wow fadeInUp circle-dot black-dot animated&quot;]/ul[@class=&quot;text-left&quot;]/li[6]/a[1]</value>
+      <webElementGuid>9240b3e1-d0ca-433f-877d-96bb33f46c12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[6]/a</value>
+      <webElementGuid>1de2981e-fdd8-427f-a003-7e08fa263dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kentico Xperience 13 Maintenance &amp; Support')]</value>
+      <webElementGuid>a440bef5-eef6-4dc4-acf7-93b85770c8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Integration Solutions'])[1]/following::a[1]</value>
+      <webElementGuid>288e0592-45f7-4217-955d-1f2582bc0009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Ecommerce Solutions'])[1]/following::a[2]</value>
+      <webElementGuid>00d155f5-90c1-4abe-97b4-fa6b8a97e8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlimited Kentico Opportunities with Ray Business Technologies'])[1]/preceding::a[1]</value>
+      <webElementGuid>089bc343-93e9-4b62-a78e-254c0b412b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hire capable resources to work on Kentico projects for consistent integrity'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8a55d4b-6cc9-42c3-8f8c-9a6b89659dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kentico Xperience 13 Maintenance &amp; Support']/parent::*</value>
+      <webElementGuid>5b683ac8-15e6-4ce7-9351-8d9574b73d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/kentico-maintenance-services')]</value>
+      <webElementGuid>c42d1c3d-cf84-4550-8ce6-87931b52e147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/a</value>
+      <webElementGuid>0431adcd-9b48-48b6-8293-bbf6180d8f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/solutions/epcm/kentico-xperience-13/kentico-maintenance-services' and (text() = 'Kentico Xperience 13 Maintenance &amp; Support' or . = 'Kentico Xperience 13 Maintenance &amp; Support')]</value>
+      <webElementGuid>7691a87d-016d-4263-93e4-2aa323fb67c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

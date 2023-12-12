@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dynamics NAV Filled with Dosage of Discounts</name>
+   <tag></tag>
+   <elementGuidId>13ae2cd2-e449-4796-b21b-84da59af838c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#248</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='248']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>713f54e7-c3bc-4d15-96ff-b00585acafe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-heading panel_bg</value>
+      <webElementGuid>823e3b44-8a7e-4013-a5a6-8b9fcf577ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>248</value>
+      <webElementGuid>df52920f-32be-4c5d-9090-5a4dc91d1c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>bb6defdc-4b41-4f88-af02-45a5a1fc3880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Dynamics NAV Filled with Dosage of Discounts 
+</value>
+      <webElementGuid>ed3f6f33-bd28-41f9-a2c8-46edda887947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;248&quot;)</value>
+      <webElementGuid>6bd797df-5d39-45ea-9867-7382709bd7df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='248']</value>
+      <webElementGuid>16d6f51c-bdad-4369-a1e9-64c9e344da95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div/div</value>
+      <webElementGuid>380307fc-1c4e-46f8-b86d-eddc11fa9ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits of Dynamics NAV'])[1]/following::div[3]</value>
+      <webElementGuid>b1c1aaab-0caf-4161-818b-946e13477318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Dynamics NAV?'])[1]/following::div[4]</value>
+      <webElementGuid>8b0a88e1-8512-41b4-9ba2-b6146c714d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liberty for User-privileged Pricing &amp; Licensing'])[1]/preceding::div[3]</value>
+      <webElementGuid>2d4526aa-9e56-4c58-a59b-c65b437a765a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/div/div</value>
+      <webElementGuid>72c72fff-3854-4979-9ae2-08d3e1e1f183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '248' and (text() = '
+Dynamics NAV Filled with Dosage of Discounts 
+' or . = '
+Dynamics NAV Filled with Dosage of Discounts 
+')]</value>
+      <webElementGuid>0078d2fd-fe09-43b3-94cc-f2f4dcf808bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kentico CMS Videos</name>
+   <tag></tag>
+   <elementGuidId>ed5d2acf-9edc-4c80-873d-7a556972337d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/div/div/div/div/ol/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d506ff5-0b6f-462a-a753-082c3fa49a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9</value>
+      <webElementGuid>7d4019d4-79fa-4f93-ad39-6906f70c71a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico CMS Videos</value>
+      <webElementGuid>ffc3efb9-0f3c-4fce-9b2f-1cfedf45239d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;breadcrum&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/ol[@class=&quot;breadcrumb hidden-xs&quot;]/li[3]/a[1]</value>
+      <webElementGuid>da32b6f2-62dd-4c95-b1b9-80de0f2216a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/div/div/div/div/ol/li[3]/a</value>
+      <webElementGuid>47dd9277-e948-44b3-a1bd-361683269697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kentico CMS Videos')]</value>
+      <webElementGuid>d1e50191-5dd2-44ad-991b-f7273106b174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Videos'])[1]/following::a[1]</value>
+      <webElementGuid>42936ab5-07d9-4f0f-8ccb-6c0f230188ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>c6776e31-6a4c-4b53-9fe5-cbb0dee05179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boomi-Services and Solutions Videos'])[1]/preceding::a[1]</value>
+      <webElementGuid>e403664b-8346-497d-b634-cfbbdd9b585e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why should you prefer Boo..'])[1]/preceding::a[1]</value>
+      <webElementGuid>2d17bb67-19cd-48e3-9c28-2dfc09fb9898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kentico CMS Videos']/parent::*</value>
+      <webElementGuid>0f415a73-b063-457a-8686-3c061c5daf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo19xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9')]</value>
+      <webElementGuid>279809b8-f68b-4d4e-a839-e7582c258089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]/a</value>
+      <webElementGuid>e1e69733-7128-4d23-a8d8-08e0bd39a0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo19xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9' and (text() = 'Kentico CMS Videos' or . = 'Kentico CMS Videos')]</value>
+      <webElementGuid>1720b6d4-940e-48ce-9554-1253557df68c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

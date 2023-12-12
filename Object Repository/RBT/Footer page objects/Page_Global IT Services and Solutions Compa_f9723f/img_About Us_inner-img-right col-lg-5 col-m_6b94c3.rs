@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_About Us_inner-img-right col-lg-5 col-m_6b94c3</name>
+   <tag></tag>
+   <elementGuidId>2f4ef2d8-9abf-428c-b4a8-f7286261910c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/div/div/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.inner-img-right.col-lg-5.col-md-6.center-block.img-responsive.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>63a585b5-7c4b-4057-aff2-56a1b91507c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner-img-right col-lg-5 col-md-6 center-block img-responsive pull-right</value>
+      <webElementGuid>f412bbd5-7c6f-4413-9c67-9099c202554f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/about_business_philosophy.jpg</value>
+      <webElementGuid>fc09acf6-481a-4ab8-950d-474e35ff7fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 columns blog-adjust&quot;]/div[@class=&quot;imageGallery&quot;]/a[1]/img[@class=&quot;inner-img-right col-lg-5 col-md-6 center-block img-responsive pull-right&quot;]</value>
+      <webElementGuid>fe2808f4-88b0-40e0-88ee-3e965c1e681f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/div/div/div[2]/a/img</value>
+      <webElementGuid>09aa1ded-b0e1-45e5-946e-c1960307c67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/about_business_philosophy.jpg')]</value>
+      <webElementGuid>b44089b5-0f98-41ab-b7de-8295b712e6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>c3357a9b-36b9-4717-b299-f254f04793ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/about_business_philosophy.jpg']</value>
+      <webElementGuid>0534816e-bc71-4a67-8284-a2d115c3067d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

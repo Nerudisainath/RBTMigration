@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>9fe43caa-4d9c-4d8a-a581-69aa17eedf76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>12fbff10-b67d-4563-b176-9d32dc3bf72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/Contact</value>
+      <webElementGuid>466c1aba-ad81-4453-aa90-9874e3dad17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>84fdb298-6a26-4f25-9734-52628a969505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-5&quot;]/div[@class=&quot;footer-links&quot;]/nav[1]/ul[@class=&quot;two-col&quot;]/li[8]/a[1]</value>
+      <webElementGuid>f3640a2b-6e52-44f0-bbc3-c773e86da7de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li[8]/a</value>
+      <webElementGuid>86ff379a-f44c-4982-bde9-4d501207a60c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>81f7b7fd-457c-4252-aff9-0fd0655db090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAREERS'])[2]/following::a[1]</value>
+      <webElementGuid>1cdf0580-6b63-4f19-89ad-749b04e63da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERMS OF USE'])[1]/following::a[2]</value>
+      <webElementGuid>5c4c3c9a-d540-46b4-b301-2ae20a2d3e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Contact'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6854b73-96b0-4c07-87ea-f4ef9aa78c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sales@raybiztech.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>df3e18b9-396d-48c3-94b0-4ff9aa567d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>8b947ca7-e586-4984-937e-6c7c94e09018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo3xperience13.raybiztech.com/Contact')])[2]</value>
+      <webElementGuid>fb7e1958-95b1-4675-b0de-db9815e72fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[8]/a</value>
+      <webElementGuid>f4d26feb-f367-49fd-bc04-e25de06fdcc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/Contact' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>e987d07d-90d2-4e6e-a0e8-cc96e4595ed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Marketing</name>
+   <tag></tag>
+   <elementGuidId>56b1d305-7814-447e-814a-27e9085e5516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-4.m-p-right0 > div.title-componet.clearfix > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='business']/div/div[3]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>48994afb-fe86-42a8-ae81-163d21a0d8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marketing</value>
+      <webElementGuid>06f2c4ca-3997-4958-b0a8-6d81d9b6aa97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;business&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-sm-4 m-p-right0&quot;]/div[@class=&quot;title-componet clearfix&quot;]/h3[1]</value>
+      <webElementGuid>fab5b55c-f581-48b1-914d-a448bacdfc7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='business']/div/div[3]/div/h3</value>
+      <webElementGuid>ff7048da-427c-414a-9155-a46f683d6892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::h3[1]</value>
+      <webElementGuid>b93e8c75-17bf-4d0d-943c-f1dc4ee1eafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance &amp; Operations'])[1]/following::h3[2]</value>
+      <webElementGuid>ca71d876-59e1-4b0e-a2b8-4c9ba74e4e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance &amp; Operations'])[2]/preceding::h3[1]</value>
+      <webElementGuid>cf133508-08a8-4f9c-84d5-bbdf962c5d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[2]/preceding::h3[2]</value>
+      <webElementGuid>7f29d16d-63f5-49ae-b915-7f1f4b8d25e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marketing']/parent::*</value>
+      <webElementGuid>e6fb5b81-9d3a-4751-b962-22143e8b5a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/h3</value>
+      <webElementGuid>08eda85f-292c-4799-a9d1-1def11fff7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Marketing' or . = 'Marketing')]</value>
+      <webElementGuid>a7212407-b0dd-478d-89d7-39e0dedef9f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

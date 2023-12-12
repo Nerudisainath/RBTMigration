@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kentico Xperience_y-gn-img</name>
+   <tag></tag>
+   <elementGuidId>e606b85f-b14b-4ec3-875c-57514860f63f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section[4]/div[2]/div/div[2]/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.y-gn-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>719df5b7-16f7-43f3-9add-154847f98b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>y-gn-img</value>
+      <webElementGuid>f9ae3042-f629-4818-9a7a-928484d6a1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;clearfix mrg-lr&quot;]/div[@class=&quot;row video-equal-height&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-6&quot;]/div[@class=&quot;y-tube-thumbs&quot;]/a[1]/span[@class=&quot;y-gn-img&quot;]</value>
+      <webElementGuid>8b9f7af5-aca5-44f7-96cb-bc440267ef23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section[4]/div[2]/div/div[2]/div/div/div/a/span</value>
+      <webElementGuid>1136b599-ee3c-4256-bab4-25a3476bd4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience'])[1]/following::span[1]</value>
+      <webElementGuid>104ccade-da67-4923-baca-77446aea9d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Now you can integrate Kentico to your Voice assistants such as Google Home and Amazon Alexa.'])[1]/following::span[1]</value>
+      <webElementGuid>387c4847-a47c-4f12-9d64-78c7f16f8623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Create New Page Template in Kentico 12 | Ray Business Technologies | Kentico Gold Partner'])[1]/preceding::span[1]</value>
+      <webElementGuid>042f8d6b-e058-4ec4-9f94-2b78795379a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico 12 .NET MVC Widgets and Forms | Ray Business Technologies | Kentico Gold Partner'])[1]/preceding::span[3]</value>
+      <webElementGuid>5e558410-a25b-48d1-8e53-4c4f49cb2ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>d2986359-e16e-4b42-83b7-70e3f86971e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

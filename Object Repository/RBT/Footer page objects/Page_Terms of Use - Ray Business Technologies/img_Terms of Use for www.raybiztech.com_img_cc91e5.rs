@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Terms of Use for www.raybiztech.com_img_cc91e5</name>
+   <tag></tag>
+   <elementGuidId>91fad36d-016c-4dc4-9844-24b2a5ad1d4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.banner-text-display > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>16670528-16e1-46e5-8c11-beefaf273149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Terms of Use</value>
+      <webElementGuid>1e6c5728-6a6b-4c44-b1a5-af2793f3bde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/aboutus-inner.png?width=382&amp;height=130&amp;ext=.png</value>
+      <webElementGuid>a0e1b45b-da21-40bc-850d-6aacf4dfc897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>663442fc-d2cf-4b2e-984a-49398dc375e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/section[@class=&quot;inner-banner&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;banner-text row&quot;]/div[@class=&quot;col-sm-6 banner-text-display&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>bcdf93ab-e0d1-4a42-a569-57e609bb8acf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/section/div/div/div[2]/img</value>
+      <webElementGuid>d0e96a96-7df4-43f8-a37c-7d40cd8dc9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Terms of Use']</value>
+      <webElementGuid>a6482663-8c6c-4f22-a192-17568ca56ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/img</value>
+      <webElementGuid>d34d1a02-48ca-4d9b-97d3-5535f5e4e366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Terms of Use' and @src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/aboutus-inner.png?width=382&amp;height=130&amp;ext=.png']</value>
+      <webElementGuid>2aa7e60a-8e98-4703-b118-97020614b929</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

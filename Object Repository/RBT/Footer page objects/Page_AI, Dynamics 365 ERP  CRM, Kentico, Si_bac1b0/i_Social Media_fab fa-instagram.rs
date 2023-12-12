@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Social Media_fab fa-instagram</name>
+   <tag></tag>
+   <elementGuidId>9c959530-b18c-4d53-9321-3faf046106e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/footer/div/div/div/div[3]/div/div/div[2]/ul/li[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-20.col-sm-6.col-md-12 > ul.social-media > li.instagram > a > i.fab.fa-instagram</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9f171ef5-6143-4bd7-88a4-152abaf0085e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-instagram</value>
+      <webElementGuid>79db2f16-ab21-4dc8-848f-b16411aea92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>instagram</value>
+      <webElementGuid>7f5270b1-2f0b-474c-bc48-7f08fed0345b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e926141a-559a-4b25-8e65-0bd6f8178410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-3&quot;]/div[@class=&quot;footer-links contact-links&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mb-20 col-sm-6 col-md-12&quot;]/ul[@class=&quot;social-media&quot;]/li[@class=&quot;instagram&quot;]/a[1]/i[@class=&quot;fab fa-instagram&quot;]</value>
+      <webElementGuid>4b2d7b04-2770-4da4-9a5d-bf296c767ce9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/footer/div/div/div/div[3]/div/div/div[2]/ul/li[5]/a/i</value>
+      <webElementGuid>f6acd3aa-86e6-4d43-9823-7aaa6e0078b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[5]/a/i</value>
+      <webElementGuid>9293e141-0cd4-4956-92ac-5706c94f78c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

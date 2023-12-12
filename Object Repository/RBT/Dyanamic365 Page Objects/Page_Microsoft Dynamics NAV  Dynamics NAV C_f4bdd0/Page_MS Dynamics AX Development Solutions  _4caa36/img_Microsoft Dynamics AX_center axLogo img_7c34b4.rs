@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Microsoft Dynamics AX_center axLogo img_7c34b4</name>
+   <tag></tag>
+   <elementGuidId>c6485de0-72b4-4d5a-8c9a-04f878abb679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.center.axLogo.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div/section/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2d9d7332-53f4-43ce-8c27-fd67d23813ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center axLogo img-responsive</value>
+      <webElementGuid>ea2ea36f-3965-44e0-ac07-6d54e2cfafcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/ax-logo_1.png</value>
+      <webElementGuid>e2fc0088-187a-4a64-82e9-3250754ac16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row&quot;]/section[@class=&quot;widget-1 clearfix&quot;]/div[@class=&quot;col-sm-4 col-sm-push-8&quot;]/img[@class=&quot;center axLogo img-responsive&quot;]</value>
+      <webElementGuid>36fbdbb5-c3cb-4834-a5a3-4dd896e280ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div/section/div/img</value>
+      <webElementGuid>ef22c199-8ef5-473b-bbb7-e6574d99cef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/ax-logo_1.png')]</value>
+      <webElementGuid>36083849-caf7-47f4-b182-2b0eee1b6688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/img</value>
+      <webElementGuid>f4cca21a-204c-4971-84eb-a35ea84a3825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo19xperience13.raybiztech.com/RBT/media/Raybiztech-Images/ax-logo_1.png']</value>
+      <webElementGuid>f22396cc-1a42-465d-9465-b4695cc95df3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

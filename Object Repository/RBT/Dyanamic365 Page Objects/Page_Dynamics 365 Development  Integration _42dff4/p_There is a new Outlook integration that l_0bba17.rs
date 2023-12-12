@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_There is a new Outlook integration that l_0bba17</name>
+   <tag></tag>
+   <elementGuidId>6851745b-5747-4fd3-b46b-7ad3e10cc197</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseOne']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-body > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c989d21f-a6da-4927-931f-c62f73988192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>There is a new Outlook integration that looks promising and adds new features and improvements over the current Outlook client.</value>
+      <webElementGuid>57851f9b-d7e1-488a-b7af-203d71e24356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>629985fd-00c3-41da-9364-6ae9a72af434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b845c9f2-e8b0-4bf1-bf9c-00689926a9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>There is a new Outlook integration that looks promising and adds new features and improvements over the current Outlook client.</value>
+      <webElementGuid>e9b53176-e04f-499f-9ce4-cb217e5fa8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseOne&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>0ea89d0a-d0e6-48ef-a9c7-61d5ab4cafe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseOne']/div/p</value>
+      <webElementGuid>c78ff55c-596e-4b9c-9c42-18cacbfdb513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics 365 integration with Office 365'])[1]/following::p[1]</value>
+      <webElementGuid>b0bf14dc-80c5-452b-9d5d-3ec75e86589f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[1]/following::p[1]</value>
+      <webElementGuid>34d17f69-b294-48f9-99c4-3880f7438046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[2]/preceding::p[1]</value>
+      <webElementGuid>1913aeb7-a600-49e8-ba54-f84b60d92506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='There is a new Outlook integration that looks promising and adds new features and improvements over the current Outlook client.']/parent::*</value>
+      <webElementGuid>4b2876ee-2553-48a9-bc73-5cf1ac9a851f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/div/p</value>
+      <webElementGuid>f2c872a7-0ab4-40b9-acde-589ace76299f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'There is a new Outlook integration that looks promising and adds new features and improvements over the current Outlook client.' or . = 'There is a new Outlook integration that looks promising and adds new features and improvements over the current Outlook client.')]</value>
+      <webElementGuid>670d711f-3a12-4a45-af43-8893370cfce7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

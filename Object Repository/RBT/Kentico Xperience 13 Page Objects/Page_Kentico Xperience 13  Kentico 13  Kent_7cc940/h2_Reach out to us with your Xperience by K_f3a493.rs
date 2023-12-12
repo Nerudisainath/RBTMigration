@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Reach out to us with your Xperience by K_f3a493</name>
+   <tag></tag>
+   <elementGuidId>bea18210-0dc6-4e71-a725-fcc7d4a390a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section[3]/div/div/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.font-lg.mb-20.wow.fadeInLeft.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>eb8a6ce9-6c67-4400-a43a-95c6cb4f9c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-lg mb-20 wow fadeInLeft animated</value>
+      <webElementGuid>4f983e5a-c343-49db-a09e-0625009e2bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-delay</name>
+      <type>Main</type>
+      <value>0.6</value>
+      <webElementGuid>fedef43e-e952-4bf9-ada8-b1ae0a14d10e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-duration</name>
+      <type>Main</type>
+      <value>0.25s</value>
+      <webElementGuid>95705016-5026-4eb1-879f-e95452593f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reach out to us with your Xperience by Kentico Requirements. Our Certified Xperience  Professionals will respond at the earliest.</value>
+      <webElementGuid>0cf404bd-3d19-4e7b-b1ce-4987284cb98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad yellow-bg kentico13-bg&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;tbl-parent&quot;]/div[@class=&quot;col-sm-9 tbcell&quot;]/div[1]/div[@class=&quot;tbl&quot;]/h2[@class=&quot;font-lg mb-20 wow fadeInLeft animated&quot;]</value>
+      <webElementGuid>06765433-e982-4789-984c-b2e42e573ea3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section[3]/div/div/div/div/div/div/h2</value>
+      <webElementGuid>7f8ddd73-4732-4f30-b7dc-5be070e0c14d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Shopping Cart'])[1]/following::h2[1]</value>
+      <webElementGuid>4e9be322-9eab-4da1-8497-14b463aa6e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Workflows Development'])[1]/following::h2[1]</value>
+      <webElementGuid>3055c231-2481-45ea-9568-03d6fea17d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/preceding::h2[1]</value>
+      <webElementGuid>f881eed8-9530-4e85-9558-a5f8b84fb0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KENTICO DIGITAL EXPERIENCE PLATFORM MAKES THINGS EASY FOR YOU. NOW YOU CAN:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1b71caa6-cc4b-4a85-bbf0-de77b6b84a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/div/div/div/div/h2</value>
+      <webElementGuid>73529f14-8015-4beb-b75a-9104dd412dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Reach out to us with your Xperience by Kentico Requirements. Our Certified Xperience  Professionals will respond at the earliest.' or . = 'Reach out to us with your Xperience by Kentico Requirements. Our Certified Xperience  Professionals will respond at the earliest.')]</value>
+      <webElementGuid>f8c45dc6-e4d9-4bbd-836d-517a126c235c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

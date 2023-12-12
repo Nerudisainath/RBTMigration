@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ABOUT US</name>
+   <tag></tag>
+   <elementGuidId>c0ed6566-b9ad-4abf-81db-7f058bbe97a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.two-col > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9b4c9d5f-784e-4827-abe8-51f403a63f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/about-us/about</value>
+      <webElementGuid>3314f36c-1701-4134-aa22-3e44182150e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABOUT US</value>
+      <webElementGuid>2e9202e0-285d-41ee-8f55-94a47492d06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-5&quot;]/div[@class=&quot;footer-links&quot;]/nav[1]/ul[@class=&quot;two-col&quot;]/li[1]/a[1]</value>
+      <webElementGuid>189a0390-7370-4a25-acd8-38a843323ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>496c8b26-7791-45a7-b789-ea33c0707dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/about-us/about</value>
+      <webElementGuid>a2d22418-a532-4389-92f4-fee6030298f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ABOUT US</value>
+      <webElementGuid>81a8e77e-4926-4885-a19d-dc1ac5beaa4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-5&quot;]/div[@class=&quot;footer-links&quot;]/nav[1]/ul[@class=&quot;two-col&quot;]/li[1]/a[1]</value>
+      <webElementGuid>af6780ea-5bc2-428e-85b6-27a676f2544d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li/a</value>
+      <webElementGuid>101ad77d-730d-4c5b-8ac9-3e2417fa82ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'ABOUT US')])[4]</value>
+      <webElementGuid>7085c736-7ca2-4e18-ace7-0d48a68fd558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::a[1]</value>
+      <webElementGuid>ed68bec5-fa2b-496d-a831-a7d2ecd9e857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Phone Number *'])[1]/following::a[1]</value>
+      <webElementGuid>86a6acb3-e1da-428e-88d2-2aeab27fc3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLUTIONS'])[1]/preceding::a[1]</value>
+      <webElementGuid>6cfd7ac9-9975-45c9-85fe-7d2dc653801a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESOURCES'])[1]/preceding::a[2]</value>
+      <webElementGuid>bf49d3a5-5004-4309-97df-77272f44fbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo3xperience13.raybiztech.com/about-us/about')])[12]</value>
+      <webElementGuid>6dd2ccb5-2ccd-4734-965a-9b2381497fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/ul/li/a</value>
+      <webElementGuid>4dfc01c9-cbbc-486d-8a89-9a86425b570c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/about-us/about' and (text() = 'ABOUT US' or . = 'ABOUT US')]</value>
+      <webElementGuid>d59bec06-c9e9-4086-a25d-7a8403a18db5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

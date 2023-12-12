@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View all</name>
+   <tag></tag>
+   <elementGuidId>926497cb-1ea7-4b94-af12-a24a2d800282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-center.custom-button.btn-transparent-primary.btn-large.mart-35.videoscroll</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0185ec07-7057-4f10-911b-67e5fec828a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9</value>
+      <webElementGuid>51f53d2a-ab02-4770-984c-9864c7a5aee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center custom-button btn-transparent-primary btn-large mart-35 videoscroll</value>
+      <webElementGuid>f25ec359-05ed-402d-a406-db0c605f8410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all</value>
+      <webElementGuid>6824d7f2-ee86-408d-b454-e8fc866e3be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[2]/section[@class=&quot;y-tube-section&quot;]/div[@class=&quot;text-center&quot;]/a[@class=&quot;text-center custom-button btn-transparent-primary btn-large mart-35 videoscroll&quot;]</value>
+      <webElementGuid>a9e4b791-db65-4a3b-a6a5-2c88f4a63ade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div[2]/a</value>
+      <webElementGuid>5a2b9e77-ba43-48ba-94cb-70f1a5e63a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all')]</value>
+      <webElementGuid>5661910c-8860-4d10-8e1f-6c6a6a09c250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which is the Best CMS Ken..'])[1]/following::a[1]</value>
+      <webElementGuid>b4bf81e5-3ffd-4a3f-bc8e-0dca099512d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Portal Engine vs ..'])[1]/following::a[2]</value>
+      <webElementGuid>e5443b0b-4d2a-4f81-9092-70444f026d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Studies'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7bbf411-0cc0-4b32-8828-c3c3009f3d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annual Financial Reporting Automation, amplif...'])[1]/preceding::a[1]</value>
+      <webElementGuid>2c9e3f39-e887-4aa5-bba3-3b145ce5aa86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all']/parent::*</value>
+      <webElementGuid>ab26574d-fe9d-4b71-b7ad-2b0b1e1b3a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9')]</value>
+      <webElementGuid>e5d69277-e2e1-4276-87d8-3f8afd3498b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/a</value>
+      <webElementGuid>2e4021d3-8c0c-4984-b9d7-8617118c2922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/CategoryVideos?catID=PLtmHTlSHwoYpGAJ4zAs5UeRDtyHca9ye6&amp;&amp;pgTle=Kentico%20CMS%20Videos&amp;uh=867d4dca288a9d0e2ee6f361a1fad139e6a0d27aa582aea04c723b09cfd6d3f9' and (text() = 'View all' or . = 'View all')]</value>
+      <webElementGuid>ffd8646d-6e44-440a-bda9-66cf16278f13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

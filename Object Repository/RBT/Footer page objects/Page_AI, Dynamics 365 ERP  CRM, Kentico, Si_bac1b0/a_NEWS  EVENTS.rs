@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NEWS  EVENTS</name>
+   <tag></tag>
+   <elementGuidId>eff60be4-c4a6-4b5f-8fb7-a243207eb5fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83ced016-6887-4e28-a0dc-a7c391fc708e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/News-Events</value>
+      <webElementGuid>0de602ee-86da-4bad-9392-4e1d5bfb4ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEWS &amp; EVENTS</value>
+      <webElementGuid>0e91a1c3-452e-4ae7-8434-91969c109fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-4 col-lg-5&quot;]/div[@class=&quot;footer-links&quot;]/nav[1]/ul[@class=&quot;two-col&quot;]/li[4]/a[1]</value>
+      <webElementGuid>1b99c36f-b0b1-4b06-bf1b-3daaab9b8f99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/footer/div/div/div/div[2]/div/nav/ul/li[4]/a</value>
+      <webElementGuid>e109f4a1-765c-4aa2-a4b9-1e33143b51e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'NEWS &amp; EVENTS')])[4]</value>
+      <webElementGuid>bf21832d-c665-4891-b61a-fe5e205c2aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESOURCES'])[1]/following::a[1]</value>
+      <webElementGuid>a17b7a85-5ffe-4b26-afd4-86de3a309199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLUTIONS'])[1]/following::a[2]</value>
+      <webElementGuid>952ab5de-9070-4c3b-bcb1-f5b1011abe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRIVACY POLICY'])[1]/preceding::a[1]</value>
+      <webElementGuid>e56b553a-10da-4ad2-8ba0-344f4bc02d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERMS OF USE'])[1]/preceding::a[2]</value>
+      <webElementGuid>a757ed52-3562-405e-9ffb-2c8864d763f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/News-Events')]</value>
+      <webElementGuid>db891325-b2de-482a-a804-238a2359cb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/ul/li[4]/a</value>
+      <webElementGuid>84a1a353-4e90-47f5-99b4-f8d6b920e1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/News-Events' and (text() = 'NEWS &amp; EVENTS' or . = 'NEWS &amp; EVENTS')]</value>
+      <webElementGuid>75a3a47a-3156-4008-b033-32ded7294e65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

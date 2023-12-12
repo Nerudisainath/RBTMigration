@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Show More</name>
+   <tag></tag>
+   <elementGuidId>0d01a8c1-dea7-4356-879e-4ece5a076ac3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/div/ul/li[23]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8811221e-ddd4-4d7a-8bc8-080c2a9d7226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>more</value>
+      <webElementGuid>666ed526-e06f-4f29-af8c-0357c8e12ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show More...</value>
+      <webElementGuid>70078d95-e29a-435b-a0ae-38c15188d583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/div[@class=&quot;panel-body circle-dot black-dot&quot;]/ul[@class=&quot;term-list&quot;]/li[@class=&quot;more&quot;]</value>
+      <webElementGuid>26379b0d-0ddf-4e02-882d-fa2c6cf30947</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div/ul/li[23]</value>
+      <webElementGuid>e87fd313-91e3-48c4-8449-4a02f27c6ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-directed and capable of working effectively in a highly innovative and fast-paced environment'])[1]/following::li[1]</value>
+      <webElementGuid>4999a2b4-080c-45d9-8358-26019f73c506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ability to work on deadlines and schedule deliverables'])[1]/following::li[3]</value>
+      <webElementGuid>0d4cdfae-0f46-48ec-a0be-a9f96e1b8aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Online'])[1]/preceding::li[1]</value>
+      <webElementGuid>f0663e5c-4e5e-4378-a1d4-9cfac1f18501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='careers@raybiztech.com'])[1]/preceding::li[1]</value>
+      <webElementGuid>13655a47-fec8-42a4-a520-4281b6dca86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show More...']/parent::*</value>
+      <webElementGuid>e759d78d-11e1-47d3-9aa8-73c543c5846f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[23]</value>
+      <webElementGuid>8d94a439-6e8b-4773-9935-420d8970a281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Show More...' or . = 'Show More...')]</value>
+      <webElementGuid>50eb18b6-619a-4ed2-9c26-3f32123f2202</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

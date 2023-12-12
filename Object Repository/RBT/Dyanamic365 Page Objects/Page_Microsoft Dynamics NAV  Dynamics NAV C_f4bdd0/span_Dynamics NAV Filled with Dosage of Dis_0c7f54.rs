@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dynamics NAV Filled with Dosage of Dis_0c7f54</name>
+   <tag></tag>
+   <elementGuidId>930df97d-d685-400d-9467-6450ae937c3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.more-less.glyphicon.glyphicon-minus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='248']/h4/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>931e4478-b907-4a20-80db-4fd7677482d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>more-less glyphicon glyphicon-minus</value>
+      <webElementGuid>ee51dc9b-3a08-424f-8feb-efe4218bc0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;248&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/span[@class=&quot;more-less glyphicon glyphicon-minus&quot;]</value>
+      <webElementGuid>bf0ab2eb-21d2-45f3-827d-03a71efa522d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='248']/h4/a/span</value>
+      <webElementGuid>6e13dede-9975-418d-95bc-afaf28488e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics NAV Filled with Dosage of Discounts'])[1]//span[1]</value>
+      <webElementGuid>a6676b3d-5955-43bf-adab-c3b0bc48bf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits of Dynamics NAV'])[1]/following::span[1]</value>
+      <webElementGuid>9456db64-0b41-4817-bc27-b61f9df5b7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liberty for User-privileged Pricing &amp; Licensing'])[1]/preceding::span[1]</value>
+      <webElementGuid>934401ec-4c71-423b-b1e2-5d7a078ead1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out-of-Office &amp; Right-in-the-Fields for Mobility'])[1]/preceding::span[2]</value>
+      <webElementGuid>694ac56f-b7d2-4161-aa11-384a6550d880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a/span</value>
+      <webElementGuid>4cfa070d-e686-4b93-9511-fde3146ebb78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

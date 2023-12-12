@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Artificial Intelligence offers_img-responsive</name>
+   <tag></tag>
+   <elementGuidId>979b73e3-ab35-48c2-9469-589be24a5d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.imageGallery > a > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>28996e08-b904-456e-9171-326860773b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>d7fb895d-6ef2-4201-88d9-4e7fdd23c124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/data-science.png</value>
+      <webElementGuid>93d46d66-4f59-49c3-b756-c25fbc5a2724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt imxtxt&quot;]/div[@class=&quot;main-widget ax_main&quot;]/div[@class=&quot;col-sm-12 pad0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;widget-3 cus_widget custom-widget clearfix&quot;]/div[@class=&quot;drupal-dev-widget&quot;]/div[@class=&quot;col-sm-5&quot;]/div[@class=&quot;imageGallery&quot;]/a[1]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>32e8cf68-4137-44e5-92ed-f438a4aa2998</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div[2]/div/div/div/div/div[3]/div/div/div[3]/div/div/div/div/a/img</value>
+      <webElementGuid>0dde98bb-072e-478f-a72b-04c7d1c40b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/data-science.png')]</value>
+      <webElementGuid>4a1842e2-06ff-4bed-a3d8-4484858697fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/img</value>
+      <webElementGuid>a11cd0b6-d322-4112-b4f6-7c1769bbeb62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/data-science.png']</value>
+      <webElementGuid>ed3dbc3a-be00-4c3e-a9de-910619d5c66e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

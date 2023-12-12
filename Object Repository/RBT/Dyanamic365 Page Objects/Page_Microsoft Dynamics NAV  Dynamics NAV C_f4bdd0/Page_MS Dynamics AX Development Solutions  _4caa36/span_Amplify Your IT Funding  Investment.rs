@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Amplify Your IT Funding  Investment</name>
+   <tag></tag>
+   <elementGuidId>b0fecc03-b98d-4344-89ac-a7f4b66f1ad0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.collapsed > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne']/h4/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f96aef00-1d41-4206-a5e5-7af73054a2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amplify Your IT Funding &amp; Investment</value>
+      <webElementGuid>a97ac228-9fee-4973-b4d5-3b59429ff40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>04be0965-70f5-401d-b872-06c08e15a0ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne']/h4/a/span</value>
+      <webElementGuid>fbf3b081-f6ad-49a3-b29c-72c70e61dc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle&lt; /span>'])[1]/following::span[1]</value>
+      <webElementGuid>b83a61a7-89ce-4248-a803-c369b9cba212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics AX Benefits'])[1]/following::span[2]</value>
+      <webElementGuid>2cc82f51-55ef-4a63-be45-dfe9070a8f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a524334-cb6d-4cc9-bfee-b2a145715647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amplify Your IT Funding &amp; Investment']/parent::*</value>
+      <webElementGuid>8ece1a52-f46c-46a0-b45b-32a115dde7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a/span</value>
+      <webElementGuid>92b60e52-6c81-424d-8b3a-a27996ce80c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Amplify Your IT Funding &amp; Investment' or . = 'Amplify Your IT Funding &amp; Investment')]</value>
+      <webElementGuid>bfa613dc-cc99-4e41-bef0-b99051167dec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

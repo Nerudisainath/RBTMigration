@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Technical Project Manager  Experience  8 years</name>
+   <tag></tag>
+   <elementGuidId>e073698a-dfb0-4f50-ba8b-d779e0a455ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='headingOne']/h4)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>87d173c0-1f07-46a2-8993-c85592b731da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Technical Project Manager  Experience:  8+ years  </value>
+      <webElementGuid>96dce72e-adfc-463c-bb2b-274340de7c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@id=&quot;headingOne&quot;]/h4[1]</value>
+      <webElementGuid>53c7411c-e398-4c59-89dc-cd354d364656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='headingOne']/h4)[3]</value>
+      <webElementGuid>da8ea3f1-dd36-4cf7-a25a-d53cf1f15190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='careers@raybiztech.com'])[2]/following::h4[1]</value>
+      <webElementGuid>eb734c20-4224-48ef-b972-d80f55fe1327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Online'])[2]/following::h4[1]</value>
+      <webElementGuid>5982e481-f246-4e15-b5ea-06ce6331d5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Technical Project Manager']/parent::*</value>
+      <webElementGuid>e37faf95-ccf0-428a-92bb-cb1b337c4fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h4</value>
+      <webElementGuid>5297dff0-ba3f-4764-b7f8-357b2b6d7b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Technical Project Manager  Experience:  8+ years  ' or . = 'Technical Project Manager  Experience:  8+ years  ')]</value>
+      <webElementGuid>d0935c1e-e245-47f6-bfb4-bcd721c32119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

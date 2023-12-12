@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please enter Phone Number</name>
+   <tag></tag>
+   <elementGuidId>43c46d9b-57a9-475f-b8fb-30b0f53c3067</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Phone-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Phone-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5b43ab3-8df6-4ea5-9130-6330cc3d20d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Phone-error</value>
+      <webElementGuid>e0a704b7-af9a-4478-b13e-8e7ea1dfa83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter Phone Number</value>
+      <webElementGuid>ea4aed74-80c5-4d8d-b699-99c1760f1432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Phone-error&quot;)</value>
+      <webElementGuid>8c3443d4-c8e2-4c7b-a1fb-6ae55538fa4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Phone-error']</value>
+      <webElementGuid>5fa92a00-6191-4bdc-9bd2-34f1403913ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divid']/div/div[3]/span/span</value>
+      <webElementGuid>b1ae3b55-bd88-414f-becf-981ebf9eb2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Email ID *'])[1]/following::span[2]</value>
+      <webElementGuid>e9daf922-3f40-443e-994f-168207000436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Email'])[1]/following::span[2]</value>
+      <webElementGuid>071c9dc6-a41d-45a8-b4ac-9cf7cc216a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Phone Number *'])[1]/preceding::span[1]</value>
+      <webElementGuid>dc26cc6a-9c0c-4eac-b605-fafad65d8c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef609d25-5d28-499f-ab55-923e18181f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter Phone Number']/parent::*</value>
+      <webElementGuid>1f1dc86d-2467-463e-ba2b-75dd306f4de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span</value>
+      <webElementGuid>099ec7b6-b8ec-413c-bd8a-7be9455d550c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Phone-error' and (text() = 'Please enter Phone Number' or . = 'Please enter Phone Number')]</value>
+      <webElementGuid>b9d85b18-ee92-49e9-81f3-f6eefb0c1896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Figuratively, Ray Business Technologies m_0ee302</name>
+   <tag></tag>
+   <elementGuidId>6d7dc42d-ffdf-4ad4-bd61-61120c274974</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#collapseFour > div.panel-body > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseFour']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ca6f086c-7400-4059-8b32-5a8e18fb63f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Figuratively, Ray Business Technologies manages twin service delivery models for conveying Dynamics AX services to its customers in the shortest possible time. We are committed to optimizing your work order lifecycle, scheduling, dispatch, resource management, contract management, and first-time fix requests. Thus, our pattern of connecting your Office-to-field and Field-to-office will lend smooth flow of information and processes.</value>
+      <webElementGuid>29af95d6-3546-4fda-b548-b1943a8ae961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseFour&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>83c912fd-e449-4e7a-9666-e91a0d8cad5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseFour']/div/p</value>
+      <webElementGuid>f3d0e175-6073-433c-80d4-ee4616c9cbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[3]/following::p[1]</value>
+      <webElementGuid>53513b54-c307-41de-8b55-e27cda664081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[4]/preceding::p[1]</value>
+      <webElementGuid>627433f3-cd33-4421-9e93-0c9b089da361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Figuratively, Ray Business Technologies manages twin service delivery models for conveying Dynamics AX services to its customers in the shortest possible time. We are committed to optimizing your work order lifecycle, scheduling, dispatch, resource management, contract management, and first-time fix requests. Thus, our pattern of connecting your Office-to-field and Field-to-office will lend smooth flow of information and processes.']/parent::*</value>
+      <webElementGuid>83f17b2d-24cd-4389-b8b8-e9f28c67f458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/p</value>
+      <webElementGuid>48685342-86d9-465a-b55b-a9559f429858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Figuratively, Ray Business Technologies manages twin service delivery models for conveying Dynamics AX services to its customers in the shortest possible time. We are committed to optimizing your work order lifecycle, scheduling, dispatch, resource management, contract management, and first-time fix requests. Thus, our pattern of connecting your Office-to-field and Field-to-office will lend smooth flow of information and processes.' or . = 'Figuratively, Ray Business Technologies manages twin service delivery models for conveying Dynamics AX services to its customers in the shortest possible time. We are committed to optimizing your work order lifecycle, scheduling, dispatch, resource management, contract management, and first-time fix requests. Thus, our pattern of connecting your Office-to-field and Field-to-office will lend smooth flow of information and processes.')]</value>
+      <webElementGuid>6b9aadaa-84db-4b86-aea8-6b4f5dace150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

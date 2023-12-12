@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ARTIFICIAL INTELLIGENCE</name>
+   <tag></tag>
+   <elementGuidId>66d01d6d-6b17-45db-9d63-7623d94d3cf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/header/div/div[2]/nav/div[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.hidden-xs.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4dc42736-de45-42a3-8770-2bf0cca92eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/Solutions/Artificial-IntellIgence</value>
+      <webElementGuid>068261f1-d404-471f-bebe-005d2d286495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARTIFICIAL INTELLIGENCE</value>
+      <webElementGuid>b6b1dac6-633c-4e5a-bd8b-3405ce02f4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/header[1]/div[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;collapse navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;hidden-xs active&quot;]/a[1]</value>
+      <webElementGuid>afebda24-a653-4d45-856d-7f07aebbbf04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fa5d7ebf-4f57-4566-8a65-a78bd9a0128c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/Solutions/Artificial-IntellIgence</value>
+      <webElementGuid>d6874722-fb32-464f-b282-671e9a1a7386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARTIFICIAL INTELLIGENCE</value>
+      <webElementGuid>7526a940-ddfb-4adb-9565-7bed329e945b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/header[1]/div[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;collapse navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;hidden-xs active&quot;]/a[1]</value>
+      <webElementGuid>d50a029a-b34d-403d-99a9-bdfd0e3a4efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>576c862f-362f-4abb-a7bb-4969a73a7f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/Solutions/Artificial-IntellIgence</value>
+      <webElementGuid>4ab314d6-6fd4-4f07-9d31-cfc0a38430bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARTIFICIAL INTELLIGENCE</value>
+      <webElementGuid>66e3a85c-09d2-4301-a9f0-8b462ea7112e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/header[1]/div[@class=&quot;header&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;collapse navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;hidden-xs active&quot;]/a[1]</value>
+      <webElementGuid>8ed3db66-a769-4509-a8b0-bfc6d2bf75b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/header/div/div[2]/nav/div[4]/ul/li/a</value>
+      <webElementGuid>0adf170e-e011-4c1a-91e4-d7d44ab11eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ARTIFICIAL INTELLIGENCE')]</value>
+      <webElementGuid>27d681cb-63dc-4ed5-ae56-c0c7334f3d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamics 365'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd5dfdf3-6368-4782-b594-df4893022b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KENTICO XPERIENCE 13'])[1]/preceding::a[2]</value>
+      <webElementGuid>3dde1065-9fc0-4ee6-9043-6f5627b622ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARTIFICIAL INTELLIGENCE']/parent::*</value>
+      <webElementGuid>9e9be247-ac24-4002-82ed-ba589ca1969a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://demo3xperience13.raybiztech.com/Solutions/Artificial-IntellIgence')]</value>
+      <webElementGuid>27a3f2f7-5e39-4192-9f22-9327367568c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>2b9877d0-8b2d-4063-8ed3-8a5d755d84a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo3xperience13.raybiztech.com/Solutions/Artificial-IntellIgence' and (text() = 'ARTIFICIAL INTELLIGENCE' or . = 'ARTIFICIAL INTELLIGENCE')]</value>
+      <webElementGuid>0d35bace-ce34-4f88-9ef2-93041a1139c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

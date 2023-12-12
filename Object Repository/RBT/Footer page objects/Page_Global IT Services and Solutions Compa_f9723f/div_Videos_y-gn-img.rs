@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Videos_y-gn-img</name>
+   <tag></tag>
+   <elementGuidId>d43094c9-013e-4e6f-aae5-0194a53ee32e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.y-gn-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0b43019-e7d9-48c7-8bd4-9b5a37503ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>y-gn-img</value>
+      <webElementGuid>46da0f8b-fd46-4d8b-bbe7-0564b7f29ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[2]/section[@class=&quot;y-tube-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-12&quot;]/div[@class=&quot;y-tube-thumbs&quot;]/a[1]/div[@class=&quot;y-gn-img1&quot;]/div[@class=&quot;y-gn-img&quot;]</value>
+      <webElementGuid>44d1cfed-38b3-45c4-93ff-c772ed2c0003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/div[2]/div/div/div/div/div[2]/section/div/div/div/a/div/div</value>
+      <webElementGuid>36d32ee3-e6ff-4408-be27-dd87d32a8fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Videos'])[1]/following::div[4]</value>
+      <webElementGuid>f601a40c-762c-4bb0-b9b6-735f43722895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Centric Engagement Model'])[1]/following::div[5]</value>
+      <webElementGuid>2937532e-a68b-4523-8871-24ebee942f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose the Right CMS for ..'])[1]/preceding::div[1]</value>
+      <webElementGuid>00f2d98c-88f6-4fdf-9987-f64967240b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Portal Engine vs ..'])[1]/preceding::div[2]</value>
+      <webElementGuid>66da4f86-4ee6-4f13-876a-c4c08d7f70cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>36745a34-0450-45b3-b6e9-391ad63bb0cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

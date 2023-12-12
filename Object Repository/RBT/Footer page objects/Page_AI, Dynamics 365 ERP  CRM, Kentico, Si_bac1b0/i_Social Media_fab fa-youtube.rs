@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Social Media_fab fa-youtube</name>
+   <tag></tag>
+   <elementGuidId>91975ac7-d3da-41f9-a2f9-eebf392e6450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/footer/div/div/div/div[3]/div/div/div[2]/ul/li[4]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-20.col-sm-6.col-md-12 > ul.social-media > li.youtube > a > i.fab.fa-youtube</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ffe1967a-e8fa-44dc-addc-eeeee78cc880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-youtube</value>
+      <webElementGuid>5a404b3b-f6f1-4519-96c2-a2c48bded27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>youtube</value>
+      <webElementGuid>2fb32275-3631-4bf8-90b3-12062b17dd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3bdc10ff-f805-4d09-8d52-a0de06b90afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/footer[1]/div[@class=&quot;primary-footer&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row wow animated&quot;]/div[@class=&quot;col-sm-12 col-md-3&quot;]/div[@class=&quot;footer-links contact-links&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mb-20 col-sm-6 col-md-12&quot;]/ul[@class=&quot;social-media&quot;]/li[@class=&quot;youtube&quot;]/a[1]/i[@class=&quot;fab fa-youtube&quot;]</value>
+      <webElementGuid>5a0f6f15-b82f-437f-97f9-0fb66c637faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/footer/div/div/div/div[3]/div/div/div[2]/ul/li[4]/a/i</value>
+      <webElementGuid>5ccac97f-22a6-495f-a095-0041f3b1f3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a/i</value>
+      <webElementGuid>0a6454d7-0966-4f34-af14-6c6ef77153a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

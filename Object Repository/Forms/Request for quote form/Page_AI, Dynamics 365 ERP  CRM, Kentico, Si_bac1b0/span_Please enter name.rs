@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please enter name</name>
+   <tag></tag>
+   <elementGuidId>104c7e68-9e59-4b0e-b96c-a29e30050391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Name-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Name-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6e09f93-4247-4835-bb4c-45b1c4e2aca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Name-error</value>
+      <webElementGuid>9347db40-f724-4b4b-b279-087c08bc4ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter name</value>
+      <webElementGuid>1e35edaa-0ed4-45d7-ad63-828803540020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Name-error&quot;)</value>
+      <webElementGuid>8da232d8-2490-42e7-b5c3-a2816e21ab25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Name-error']</value>
+      <webElementGuid>6bd67ba4-736e-434e-9c72-d9804ecc690c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divid']/div/div/span/span</value>
+      <webElementGuid>58a9f576-c32f-44ab-8e57-c75b77f09901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request for Quote'])[1]/following::span[2]</value>
+      <webElementGuid>6a979cee-00f5-441a-aadc-3b773e3e74a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direct WhatsApp Chat'])[1]/following::span[2]</value>
+      <webElementGuid>4adb0203-6e3c-435a-b58e-3a5c2c478c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Your Name *'])[1]/preceding::span[1]</value>
+      <webElementGuid>c7234b05-4b1b-461b-b53a-7ae5ccf58b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter valid Email'])[1]/preceding::span[1]</value>
+      <webElementGuid>52c95155-a609-448b-9e5c-1f9b1977a233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter name']/parent::*</value>
+      <webElementGuid>2ab3b2b8-8786-4c3e-9072-97e48e52395c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span/span</value>
+      <webElementGuid>34b6f604-b627-41fd-be30-a48b145a3eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Name-error' and (text() = 'Please enter name' or . = 'Please enter name')]</value>
+      <webElementGuid>0c5bf209-c4dd-4558-a1a9-ef68b536266c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Locating the versatile application in you_f00de6</name>
+   <tag></tag>
+   <elementGuidId>2e0785fb-5310-42fe-975b-d8b0c63b81a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#collapseTwo > div.panel-body > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseTwo']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>aed1082e-2773-4154-8980-770048ad5984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Locating the versatile application in your location is advantageous indeed. With the retail solution like this, all your floating operations are thoroughly integrated. Adopting this piece of technology will not only help you in optimizing your distribution and promotion channels but also intensifies your sale.</value>
+      <webElementGuid>d4f40ae1-dd8f-4462-9daf-c66c98221cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseTwo&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>34f7b99f-8d05-4e2c-95a4-77c41f5d520c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseTwo']/div/p</value>
+      <webElementGuid>fadd5573-4faf-4175-8a9c-816b3569e65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[1]/following::p[1]</value>
+      <webElementGuid>a6c5c50c-5282-4d9b-b9f7-afd84c8ef677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[2]/preceding::p[1]</value>
+      <webElementGuid>98734a5a-0883-4999-8a88-c608798a4c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Locating the versatile application in your location is advantageous indeed. With the retail solution like this, all your floating operations are thoroughly integrated. Adopting this piece of technology will not only help you in optimizing your distribution and promotion channels but also intensifies your sale.']/parent::*</value>
+      <webElementGuid>eafa7e4d-9b41-4096-9a65-468d2bfe8cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/p</value>
+      <webElementGuid>1597b0d4-8fd3-4eb0-b1fb-b32072b9a329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Locating the versatile application in your location is advantageous indeed. With the retail solution like this, all your floating operations are thoroughly integrated. Adopting this piece of technology will not only help you in optimizing your distribution and promotion channels but also intensifies your sale.' or . = 'Locating the versatile application in your location is advantageous indeed. With the retail solution like this, all your floating operations are thoroughly integrated. Adopting this piece of technology will not only help you in optimizing your distribution and promotion channels but also intensifies your sale.')]</value>
+      <webElementGuid>a7352f94-4e16-4167-848e-bfff6fc92996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

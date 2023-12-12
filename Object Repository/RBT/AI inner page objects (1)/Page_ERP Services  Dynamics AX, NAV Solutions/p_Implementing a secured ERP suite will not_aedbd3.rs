@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Implementing a secured ERP suite will not_aedbd3</name>
+   <tag></tag>
+   <elementGuidId>ab14a52e-1a0e-472f-82a1-9dff4be4f25b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/p[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9eca25eb-0c79-455c-875f-95d0a7aa4f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Implementing a secured ERP suite will not only encourage outrageous business outputs but consequently results in the over-howling of the heterogeneous business processes from time to time. With your complicated business processes fully converged, you can now have substantial time to work on the most pressing projects priority. </value>
+      <webElementGuid>b3ddfff9-8e66-4d73-b8d3-34edc41b0241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/p[26]</value>
+      <webElementGuid>4d46d476-6419-4e4b-80e9-438a3b14041b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/p[26]</value>
+      <webElementGuid>b4dbe834-7fef-4a02-8e60-e08885cc754c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On-Time ERP, a Potential Point-of-Productivity'])[1]/following::p[1]</value>
+      <webElementGuid>7e70ed48-0952-4cde-923c-9930bcd272d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On-demand ERP for Rapid Reporting Assistance'])[1]/following::p[2]</value>
+      <webElementGuid>de2b3963-09c6-4a2e-8819-cf2dea7335ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Off-the-Ground ERP for Regulatory Compliance'])[1]/preceding::p[2]</value>
+      <webElementGuid>0fc96643-1908-42d6-b7c3-60f76922eaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[26]</value>
+      <webElementGuid>ed7e5491-548a-4063-be6a-d9132410af80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Implementing a secured ERP suite will not only encourage outrageous business outputs but consequently results in the over-howling of the heterogeneous business processes from time to time. With your complicated business processes fully converged, you can now have substantial time to work on the most pressing projects priority. ' or . = 'Implementing a secured ERP suite will not only encourage outrageous business outputs but consequently results in the over-howling of the heterogeneous business processes from time to time. With your complicated business processes fully converged, you can now have substantial time to work on the most pressing projects priority. ')]</value>
+      <webElementGuid>c1286869-73e4-45f9-ab66-1e24a7dc1f59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

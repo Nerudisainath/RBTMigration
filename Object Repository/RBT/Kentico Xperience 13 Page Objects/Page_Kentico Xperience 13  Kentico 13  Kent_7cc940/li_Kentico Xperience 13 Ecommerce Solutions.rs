@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Kentico Xperience 13 Ecommerce Solutions</name>
+   <tag></tag>
+   <elementGuidId>94ac64e1-e016-4fd4-a1e6-1de75c39ee59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2e56c04c-e711-44d6-8446-7eb6e09d09b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kentico Xperience 13 Ecommerce Solutions</value>
+      <webElementGuid>b9b40f0c-1127-4dc0-9adb-51d03073d1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/section[@class=&quot;sec-pad text-center padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-offset-1 col-md-10&quot;]/div[1]/div[@class=&quot;wow fadeInUp circle-dot black-dot animated&quot;]/ul[@class=&quot;text-left&quot;]/li[4]</value>
+      <webElementGuid>5885f9ec-1f69-4d8c-9c53-798a3fe32bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/section/div/div/div/div/div[2]/ul/li[4]</value>
+      <webElementGuid>a4d8a085-63d2-4102-8bea-5a13b1bd650b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Development'])[1]/following::li[1]</value>
+      <webElementGuid>801a45bc-1c0d-42a0-8231-32ff520dfd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Migration And Upgrade'])[1]/following::li[2]</value>
+      <webElementGuid>aa3e0083-b64c-4930-a7bf-30e803866b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Integration Solutions'])[1]/preceding::li[1]</value>
+      <webElementGuid>f0e80f81-4fdb-4e64-ba02-81d0372dc49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/ul/li[4]</value>
+      <webElementGuid>4a09d6ec-bda0-4c04-ba51-413012441400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Kentico Xperience 13 Ecommerce Solutions' or . = 'Kentico Xperience 13 Ecommerce Solutions')]</value>
+      <webElementGuid>a009b857-8503-4048-a59d-b3456f16e46b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Contact Us_img-responsive cont_mng-img</name>
+   <tag></tag>
+   <elementGuidId>58d88404-9caa-4e6f-82a0-459a5b4e7cd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/div[3]/section/div/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.cont_mng-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c1808310-7d14-46cb-adf1-abf410f8598a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demo3xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/kentico13.jpg</value>
+      <webElementGuid>1d0d2eff-2d46-4626-be80-6a8a1b38999c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive cont_mng-img</value>
+      <webElementGuid>ba9a3cf8-d91a-4d3c-b192-d07fe7204053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/div[3]/section[@class=&quot;sec-pad padb-0 pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-5 mb-20&quot;]/div[@class=&quot;img-section&quot;]/div[@class=&quot;imageGallery&quot;]/a[1]/img[@class=&quot;img-responsive cont_mng-img&quot;]</value>
+      <webElementGuid>e3f2ad27-be4a-4fe2-8572-59e94ca4c21a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/div[3]/section/div/div/div/div/div/a/img</value>
+      <webElementGuid>b44a0f67-0879-4a2d-b1e9-749b7c47668d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/kentico13.jpg')]</value>
+      <webElementGuid>389a5c66-b1e9-4f90-9abc-ecdfa3cac327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/img</value>
+      <webElementGuid>638cb0bf-249a-4bd5-91e5-b00275e3b2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demo3xperience13.raybiztech.com/RBT/media/RBT-Redesign-Images/Kentico%20CMS/kentico13.jpg']</value>
+      <webElementGuid>06d026d2-8245-4c9d-8145-649f249244c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

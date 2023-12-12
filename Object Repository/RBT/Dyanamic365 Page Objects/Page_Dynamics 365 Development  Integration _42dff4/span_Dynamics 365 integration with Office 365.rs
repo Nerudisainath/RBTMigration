@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dynamics 365 integration with Office 365</name>
+   <tag></tag>
+   <elementGuidId>ca4946c1-f52e-4c91-a247-2b9c0f6fa68b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingOne']/h4/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.panel-title > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33da80e1-0d96-40fe-b267-a7b9ec54ba34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dynamics 365 integration with Office 365</value>
+      <webElementGuid>23a3344d-fba6-4ab2-acbe-5448c1f2b033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne&quot;)/h4[@class=&quot;panel-title&quot;]/a[1]/span[1]</value>
+      <webElementGuid>bfdb61ff-ecdd-408a-9317-b591752a3058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc5c541e-01db-4d52-b8bf-da35e5d1df60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dynamics 365 integration with Office 365</value>
+      <webElementGuid>bb002e8d-99e4-479a-aa03-d844fc31d9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingOne&quot;)/h4[@class=&quot;panel-title&quot;]/a[1]/span[1]</value>
+      <webElementGuid>e37cb042-5f8d-464a-aeab-dab8392fa625</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingOne']/h4/a/span</value>
+      <webElementGuid>aa3a0997-02f1-41f2-8299-982666476156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[1]/following::span[1]</value>
+      <webElementGuid>a855dda7-bd16-4db0-a905-dd64147fc18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consumer Packaged Goods/FMCG'])[1]/following::span[2]</value>
+      <webElementGuid>21407805-f51d-421d-a432-a92f90831ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='toggle'])[2]/preceding::span[1]</value>
+      <webElementGuid>2ef14a8f-9b91-44b4-b281-06f9a17844dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dynamics 365 integration with Office 365']/parent::*</value>
+      <webElementGuid>b9997990-e4c8-4d8b-85f2-74c4e20adcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4/a/span</value>
+      <webElementGuid>f83044ad-fffb-4a38-a75e-c53f1bdf4ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dynamics 365 integration with Office 365' or . = 'Dynamics 365 integration with Office 365')]</value>
+      <webElementGuid>0478f322-a579-46ac-8aef-3cc1050eea03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

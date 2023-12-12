@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Unlimited Kentico Opportunities with Ray_d74653</name>
+   <tag></tag>
+   <elementGuidId>0c1d069a-1d64-43a4-b7df-c3b06e40456b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='post']/main/div/div/div[2]/div[2]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.wow.fadeInLeft.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>95b35693-a902-4fb7-95b2-d135faefc637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wow fadeInLeft animated</value>
+      <webElementGuid>52e344f0-827e-4f5e-a994-2e88c8dc949c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-delay</name>
+      <type>Main</type>
+      <value>0.1s</value>
+      <webElementGuid>aacb5291-177b-4252-b590-c2449189cc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wow-duration</name>
+      <type>Main</type>
+      <value>0.25s</value>
+      <webElementGuid>ac27087d-d64e-42cd-ae3b-7e30eaafb12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unlimited Kentico Opportunities with Ray Business Technologies</value>
+      <webElementGuid>3414993f-0cff-4466-a79c-8d0cd164240c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post&quot;)/main[1]/div[@class=&quot;services test&quot;]/div[1]/div[@class=&quot;page-banner banner-bg&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-7 col-md-offset-1 col-md-6&quot;]/div[1]/h2[@class=&quot;wow fadeInLeft animated&quot;]</value>
+      <webElementGuid>2ffe27bf-d770-4896-87c6-1eed3ec091f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='post']/main/div/div/div[2]/div[2]/div/div/div/h2</value>
+      <webElementGuid>4af7a85c-06e8-4e0b-bc9c-acad65bf21c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Maintenance &amp; Support'])[1]/following::h2[1]</value>
+      <webElementGuid>3f683555-1f6d-4447-9777-054662f3f573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kentico Xperience 13 Integration Solutions'])[1]/following::h2[1]</value>
+      <webElementGuid>3e6df098-f36c-42e5-b81a-1263375be377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hire capable resources to work on Kentico projects for consistent integrity'])[1]/preceding::h2[1]</value>
+      <webElementGuid>132187d4-818a-45a0-89c7-526c4fd18400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meet project timelines with mobilization of resources to maintain quality'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ba718410-1153-4ebb-8afb-7aeea6bb8032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unlimited Kentico Opportunities with Ray Business Technologies']/parent::*</value>
+      <webElementGuid>ded60d84-43e7-4f32-9084-5b7f01544e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/h2</value>
+      <webElementGuid>6109e786-0fec-415b-879b-4c442319e2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Unlimited Kentico Opportunities with Ray Business Technologies' or . = 'Unlimited Kentico Opportunities with Ray Business Technologies')]</value>
+      <webElementGuid>7f972ac0-0a30-49e7-9d0e-25e406f446de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

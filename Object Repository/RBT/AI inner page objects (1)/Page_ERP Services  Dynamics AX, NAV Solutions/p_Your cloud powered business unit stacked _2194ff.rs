@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your cloud powered business unit stacked _2194ff</name>
+   <tag></tag>
+   <elementGuidId>d493ce42-0988-4466-bf78-846197fd0652</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/p[31]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0fcc9f43-4e1f-4fd4-bb4c-2355ea4b37e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your cloud powered business unit stacked with a dedicated ERP system requires a highly dedicated ERP service as well. The customers are entitled to maintenance and support services without having to face uncalled technical situations.  This way, you can maximize the value of your ERP and take complete advantage of the practical business models. Indeed, its your ERP that persuade you to keep your business performance to the peak.</value>
+      <webElementGuid>bf12224f-e51c-401f-8b7d-7146eee85b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@id=&quot;post&quot;]/main[@id=&quot;post&quot;]/div[@class=&quot;inner-page-mobile-bg sec-pad&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-9&quot;]/div[@class=&quot;inrtxt&quot;]/p[31]</value>
+      <webElementGuid>24360f94-3d4c-4575-bbce-c91a1199503d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='post']/div[2]/div/div/div/div/div[3]/p[31]</value>
+      <webElementGuid>c1e82179-91cf-465a-8137-06012a1a3429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hyperactive ERP offers Round-the-Clock Troubleshooting'])[1]/following::p[1]</value>
+      <webElementGuid>d4dd69b7-fab6-4242-8cdb-39a65acb70b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How Ray Business Technologies is providing Proven ERP Services &amp; Solutions?'])[1]/preceding::p[1]</value>
+      <webElementGuid>77969f74-b098-43c6-b88c-2363cccfa29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your cloud powered business unit stacked with a dedicated ERP system requires a highly dedicated ERP service as well. The customers are entitled to maintenance and support services without having to face uncalled technical situations.  This way, you can maximize the value of your ERP and take complete advantage of the practical business models. Indeed, its your ERP that persuade you to keep your business performance to the peak.']/parent::*</value>
+      <webElementGuid>fe42d566-4ea4-44bb-b2f5-0261e10bbbb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[31]</value>
+      <webElementGuid>a00a67a6-ae54-4f15-9fd4-999141ef438a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Your cloud powered business unit stacked with a dedicated ERP system requires a highly dedicated ERP service as well. The customers are entitled to maintenance and support services without having to face uncalled technical situations.  This way, you can maximize the value of your ERP and take complete advantage of the practical business models. Indeed, its your ERP that persuade you to keep your business performance to the peak.' or . = 'Your cloud powered business unit stacked with a dedicated ERP system requires a highly dedicated ERP service as well. The customers are entitled to maintenance and support services without having to face uncalled technical situations.  This way, you can maximize the value of your ERP and take complete advantage of the practical business models. Indeed, its your ERP that persuade you to keep your business performance to the peak.')]</value>
+      <webElementGuid>4c00cf06-e8f5-4dc1-9006-73ee3e90e5f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
