@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Footer pages</name>
+   <name>Home_page</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>b38a4046-fc2e-4b0e-b767-539cfed5b1df</testSuiteGuid>
+   <testSuiteGuid>f84ef776-c73b-49ff-a210-ebb78af34faa</testSuiteGuid>
    <testCaseLink>
-      <guid>a3250390-ef4f-47d6-9559-35bd6aca5742</guid>
+      <guid>19c4235b-6af7-4055-bb81-f111996f799c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RBT/Footer Links/TC_06_ Footer section</testCaseId>
+      <testCaseId>Test Cases/RBT/Home page/Home page header/TC_01_Header_images</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
